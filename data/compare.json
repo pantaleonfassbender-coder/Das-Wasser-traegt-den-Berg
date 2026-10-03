@@ -250,6 +250,61 @@
      ]
     }
    ]
+  },
+  {
+   "id": "messen",
+   "titel": "Wer misst, wer zahlt",
+   "frage": "Förster, Holzmalter, Hüttenwächter.",
+   "note": "Dreimal wird auf dem Weg vom Baum zur Hütte gemessen: Der Revierförster nimmt das Malter mit dem Malterstock ab, der Holzmalter misst das Röstholz im Malterbock, der Hüttenwächter misst Karren und Kohlen. Jedes Mal ist es ein Beamter, der misst, und jedes Mal zahlt ein Arbeiter, was fehlt: der Fuhrmann, der Köhler. Dass Kohlen auch beim Fahren herunterfallen, wusste die Verwaltung; sie vergrößerte die Karren, den Abzug behielt sie.",
+   "voices": [
+    {
+     "text": "holz",
+     "sec": "koehler",
+     "n": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "holz",
+     "sec": "huette",
+     "n": [
+      2,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wald",
+   "titel": "Wie lange reicht der Wald?",
+   "frage": "Die Freiheiten, die Chronisten, die Hütte.",
+   "note": "1521 geben die Grafen das Holz ‚zu ewigen Zeiten‘ frei. Die Chronisten, die Calvör zitiert, erklären die Lücke vor 1520 mit einem Wald, der schon einmal aufgebraucht war, und mit dem Brand von 1473. Um 1640 feuert man eine Hütte an oder lässt sie kalt, je nachdem, welcher Wald wachsen soll, und nach 1703 verkohlt man auch die Wurzelstöcke. Das Holz war, wie das Wasser, eine Grenze des Bergbaus.",
+   "voices": [
+    {
+     "text": "freiheit",
+     "sec": "hohnstein",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "holz",
+     "sec": "holznot",
+     "n": [
+      1,
+      3
+     ]
+    },
+    {
+     "text": "holz",
+     "sec": "huette",
+     "n": [
+      4,
+      5
+     ]
+    }
+   ]
   }
  ]
 }

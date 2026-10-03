@@ -39,16 +39,17 @@
    "kurz": "Leibniz im Harz, 1678–1686",
    "zk": "Vorschlag, Probe, Leibniz, Urteile",
    "warum": "Gottfried Wilhelm Leibniz versprach, die Gruben ‚mittelst der Verbindung des Windes und Wassers‘ trocken zu halten, und verlangte dafür 1200 Taler im Jahr auf Lebenszeit. Gemeint war ein Speicher: Der Wind sollte das schon benutzte Wasser wieder hinaufpumpen. Das Bergamt hielt ihn beim Wortlaut und ließ eine Windmühle bauen, die unmittelbar pumpte; sie brach im Sturm und an ihren Gestängen, und 1686 wurde sie abgebrochen. Calvörs Bericht aus den Akten (1763), am Seitenbild gelesen, neben Leibniz' eigenen Worten nach Gerland (1906) und den Urteilen Trebras und Gerlands, mit vier Tafeln und einer Zeitleiste des Versuchs."
+  },
+  {
+   "id": "holz",
+   "datei": "holz",
+   "side": "wald",
+   "kurz": "Holz und Hütten",
+   "zk": "Holznot, Köhler, Hütte",
+   "warum": "Kein Silber ohne Holzkohle. Schon vor 1520, sagten die Bergleute, habe der Bergbau den Harz kahl gemacht. Calvör beschreibt, wie im 18. Jahrhundert der Wald im Malter gemessen, im Meiler zwei Wochen lang verkohlt und an der Hütte nachgezählt wurde: 16 000 Karren im Jahr für zwei Hütten, und was fehlte, zog man Fuhrmann und Köhler vom Lohn ab. Nach Calvör (1763 und 1765), am Seitenbild gelesen, mit vier Tafeln und dem Weg vom Baum zur Hütte als Grafik."
   }
  ],
  "planned": [
-  {
-   "id": "holz",
-   "side": "wald",
-   "kurz": "Holz und Hütten",
-   "warum": "Jede Grube brauchte Holz für Stempel und Räder, jede Hütte Holzkohle für das Schmelzen. Wie der Oberharz seinen Wald verbrauchte, und was Bergamt und Forst dagegen taten.",
-   "quelle": "G. E. Löhneyß, Bericht vom Bergwerck (Zellerfeld 1617; benutzt in der Ausgabe 1660); H. Calvör, Acta historico-chronologico-mechanica circa metallurgiam in Hercynia superiori (Braunschweig 1763) (Auswahl)."
-  },
   {
    "id": "stollen",
    "side": "wasser",

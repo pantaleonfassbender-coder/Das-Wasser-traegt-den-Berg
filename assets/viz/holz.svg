@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-labelledby="ho-t ho-d" font-family="var(--serif)">
+<title id="ho-t">Vom Baum zur Hütte</title>
+<desc id="ho-d">Vier Stationen von links nach rechts. Im Wald schlagen Holzhauer das Stammholz 5 Fuß lang und legen es in Malter von 4 mal 4 Fuß; der Revierförster misst es mit dem Malterstock. Im Meiler verkohlt der Köhler das Holz in 10 bis 14 Tagen; ein großer Meiler gibt 35 bis 40 Karren, für einen Karren Tannenkohlen braucht es 2¼ bis 3 Malter. Der Fuhrmann fährt die Kohlen in Karren zu 10 Maß, ein Maß wiegt 56 bis 64 Pfund. An der Hütte misst der Hüttenwächter Karren und Kohlen nach; was fehlt, wird Fuhrmann und Köhler vom Lohn abgezogen. Unten: Die Hütten in Clausthal und Altenau brauchen 9000 und 7000 Karren im Jahr, nach Calvörs Zahlen also rund 36 000 bis 48 000 Malter Holz.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Vom Baum zur Hütte</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Nach Calvör (1763). An jeder Station misst ein Beamter; wenn etwas fehlt, zahlt ein Arbeiter.</text>
+<defs><marker id="ho-a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--ink2)"/></marker></defs>
+<line x1="185" y1="140" x2="265" y2="140" stroke="var(--ink2)" stroke-width="2" marker-end="url(#ho-a)"/>
+<line x1="405" y1="140" x2="490" y2="140" stroke="var(--ink2)" stroke-width="2" marker-end="url(#ho-a)"/>
+<line x1="630" y1="140" x2="715" y2="140" stroke="var(--ink2)" stroke-width="2" marker-end="url(#ho-a)"/>
+<rect x="15" y="70" width="200" height="404" rx="10" fill="var(--panel)" stroke="var(--line)" stroke-width="1.2"/>
+<path d="M 115 106 L 101 134 L 109 134 L 97 154 L 133 154 L 121 134 L 129 134 Z" fill="var(--wald)" opacity="0.75"/><rect x="112" y="154" width="6" height="10" fill="var(--wald)"/>
+<a href="#/text/holz/koehler/2"><text x="115" y="196" text-anchor="middle" font-size="15" font-weight="bold" fill="var(--wald)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Der Wald</text></a>
+<a href="#/text/holz/koehler/2"><text x="115" y="222" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Stammholz 5 Fuß lang,</text></a>
+<a href="#/text/holz/koehler/2"><text x="115" y="241" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">im Malter 4 × 4 Fuß</text></a>
+<a href="#/text/holz/huette/4"><text x="115" y="260" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">auch die Stubben</text></a>
+<line x1="35" y1="290" x2="195" y2="290" stroke="var(--line)"/>
+<text x="115" y="312" text-anchor="middle" font-size="11.5" font-style="italic" fill="var(--ink2)">wer misst</text>
+<a href="#/text/holz/koehler/2"><text x="115" y="334" text-anchor="middle" font-size="13" font-weight="bold" fill="var(--bergamt)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Revierförster</text></a>
+<a href="#/text/holz/koehler/2"><text x="115" y="352" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Malterstock, ‚abnehmen‘</text></a>
+<text x="115" y="390" text-anchor="middle" font-size="11.5" font-style="italic" fill="var(--ink2)">wer arbeitet und haftet</text>
+<a href="#/text/holz/koehler/2"><text x="115" y="412" text-anchor="middle" font-size="13" font-weight="bold" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Holzhauer</text></a>
+<a href="#/text/holz/koehler/2"><text x="115" y="430" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">8 Mgr. 4 Pf. je Malter</text></a>
+<rect x="235" y="70" width="200" height="404" rx="10" fill="var(--panel)" stroke="var(--line)" stroke-width="1.2"/>
+<path d="M 301 162 Q 335 106 369 162 Z" fill="var(--ink2)" opacity="0.55"/><path d="M 333 130 q -8 -12 0 -22 q 8 -10 0 -20" fill="none" stroke="var(--ink2)" stroke-width="2" opacity="0.7"/>
+<a href="#/text/holz/koehler/8"><text x="335" y="196" text-anchor="middle" font-size="15" font-weight="bold" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Der Meiler</text></a>
+<a href="#/text/holz/koehler/8"><text x="335" y="222" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">10 bis 14 Tage gar,</text></a>
+<a href="#/text/holz/koehler/8"><text x="335" y="241" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Tag und Nacht bewacht</text></a>
+<a href="#/text/holz/koehler/4"><text x="335" y="260" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">35–40 Karren je großem Meiler</text></a>
+<line x1="255" y1="290" x2="415" y2="290" stroke="var(--line)"/>
+<text x="335" y="312" text-anchor="middle" font-size="11.5" font-style="italic" fill="var(--ink2)">wer misst</text>
+<a href="#/text/holz/koehler/3"><text x="335" y="334" text-anchor="middle" font-size="13" font-weight="bold" fill="var(--bergamt)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Förster weist das Holz an</text></a>
+<a href="#/text/holz/koehler/3"><text x="335" y="352" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">der Köhler nimmt, was er bekommt</text></a>
+<text x="335" y="390" text-anchor="middle" font-size="11.5" font-style="italic" fill="var(--ink2)">wer arbeitet und haftet</text>
+<a href="#/text/holz/koehler/2"><text x="335" y="412" text-anchor="middle" font-size="13" font-weight="bold" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Köhler</text></a>
+<a href="#/text/holz/koehler/2"><text x="335" y="430" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">2¼ bis 3 Malter je Karren</text></a>
+<rect x="460" y="70" width="200" height="404" rx="10" fill="var(--panel)" stroke="var(--line)" stroke-width="1.2"/>
+<path d="M 530 128 L 590 128 L 582 150 L 538 150 Z" fill="var(--panel)" stroke="var(--ink)" stroke-width="1.6"/><circle cx="560" cy="158" r="9" fill="none" stroke="var(--ink)" stroke-width="1.6"/><path d="M 538 128 q 22 -16 44 0" fill="var(--ink)" opacity="0.6"/>
+<a href="#/text/holz/huette/1"><text x="560" y="196" text-anchor="middle" font-size="15" font-weight="bold" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Der Karren</text></a>
+<a href="#/text/holz/huette/1"><text x="560" y="222" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">10 Maß Tannenkohlen,</text></a>
+<a href="#/text/holz/huette/1"><text x="560" y="241" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">9 Maß Buchenkohlen</text></a>
+<a href="#/text/holz/huette/1"><text x="560" y="260" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">1 Maß: 56–64 Pfund</text></a>
+<line x1="480" y1="290" x2="640" y2="290" stroke="var(--line)"/>
+<text x="560" y="312" text-anchor="middle" font-size="11.5" font-style="italic" fill="var(--ink2)">wer misst</text>
+<a href="#/text/holz/huette/3"><text x="560" y="334" text-anchor="middle" font-size="13" font-weight="bold" fill="var(--bergamt)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Holzmalter</text></a>
+<a href="#/text/holz/huette/3"><text x="560" y="352" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Röstholz im Malterbock</text></a>
+<text x="560" y="390" text-anchor="middle" font-size="11.5" font-style="italic" fill="var(--ink2)">wer arbeitet und haftet</text>
+<a href="#/text/holz/huette/3"><text x="560" y="412" text-anchor="middle" font-size="13" font-weight="bold" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Fuhrmann</text></a>
+<a href="#/text/holz/huette/3"><text x="560" y="430" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚am Lohne abgezogen‘</text></a>
+<rect x="685" y="70" width="200" height="404" rx="10" fill="var(--panel)" stroke="var(--line)" stroke-width="1.2"/>
+<rect x="753" y="132" width="64" height="32" fill="var(--panel)" stroke="var(--bergamt)" stroke-width="1.6"/><path d="M 747 132 L 785 110 L 823 132 Z" fill="var(--bergamt)" opacity="0.5"/><rect x="799" y="94" width="10" height="30" fill="var(--bergamt)" opacity="0.7"/>
+<a href="#/text/holz/huette/2"><text x="785" y="196" text-anchor="middle" font-size="15" font-weight="bold" fill="var(--bergamt)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Die Hütte</text></a>
+<a href="#/text/holz/huette/2"><text x="785" y="222" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Clausthal: 9000 Karren</text></a>
+<a href="#/text/holz/huette/2"><text x="785" y="241" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Altenau: 7000 Karren</text></a>
+<a href="#/text/holz/huette/2"><text x="785" y="260" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">im Jahr</text></a>
+<line x1="705" y1="290" x2="865" y2="290" stroke="var(--line)"/>
+<text x="785" y="312" text-anchor="middle" font-size="11.5" font-style="italic" fill="var(--ink2)">wer misst</text>
+<a href="#/text/holz/huette/2"><text x="785" y="334" text-anchor="middle" font-size="13" font-weight="bold" fill="var(--bergamt)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Hüttenwächter</text></a>
+<a href="#/text/holz/huette/2"><text x="785" y="352" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Stab und Kohlenmaß</text></a>
+<text x="785" y="390" text-anchor="middle" font-size="11.5" font-style="italic" fill="var(--ink2)">wer arbeitet und haftet</text>
+<a href="#/text/holz/huette/2"><text x="785" y="412" text-anchor="middle" font-size="13" font-weight="bold" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Fuhrmann und Köhler</text></a>
+<a href="#/text/holz/huette/2"><text x="785" y="430" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚Krimpmaaße‘ vom Lohn</text></a>
+<text x="16" y="520" font-size="14" font-weight="bold" fill="var(--ink)">Ein Jahr, zwei Hütten</text>
+<rect x="120" y="534" width="142" height="20" fill="var(--bergamt)" opacity="0.7"/>
+<rect x="262" y="534" width="111" height="20" fill="var(--bergamt)" opacity="0.4"/>
+<a href="#/text/holz/huette/2"><text x="16" y="549" text-anchor="start" font-size="12.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">16 000 Karren</text></a>
+<rect x="120" y="568" width="570" height="20" fill="var(--wald)" opacity="0.7"/>
+<rect x="690" y="568" width="190" height="20" fill="var(--wald)" opacity="0.3"/>
+<a href="#/text/holz/koehler/2"><text x="16" y="583" text-anchor="start" font-size="12.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">36–48 000 Malter</text></a>
+<text x="381" y="549" font-size="11.5" fill="var(--ink2)">Clausthal 9000 + Altenau 7000 (Calvör)</text>
+<text x="16" y="616" font-size="11.5" fill="var(--ink2)">Untere Leiste von uns gerechnet: 16 000 Karren × 2¼ bis 3 Malter Stammholz je Karren. Ohne Röstholz und ohne das Holz in den Gruben.</text>
+</svg>

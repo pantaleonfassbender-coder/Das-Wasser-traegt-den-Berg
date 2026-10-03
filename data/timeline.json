@@ -2,6 +2,14 @@
  "lede": "Von den ersten Bergfreiheiten um 1520 bis zum Übergang des Oberharzes an Preußen 1866. Die Stationen verweisen auf die Stellen im Apparat; wo noch kein Text abgedruckt ist, folgen sie der neueren Literatur und sagen es.",
  "stations": [
   {
+   "d": "1473",
+   "side": "wald",
+   "titel": "Der Harz brennt",
+   "text": "Nach einem trockenen Sommer brennt der Harzwald ‚veer mile Weges‘. Ein Bergchronist erklärt damit, warum Clausthal erst 1554 wieder Bergbau bekam: Man musste warten, bis der Wald nachgewachsen war.",
+   "cite": "#/text/holz/holznot/3",
+   "citeLabel": "Holznot [3]"
+  },
+  {
    "d": "16. Juni 1521",
    "side": "bergamt",
    "titel": "Die erste Bergfreiheit",
@@ -73,6 +81,14 @@
    "plate": "calvoer_s97"
   },
   {
+   "d": "1643",
+   "side": "wald",
+   "titel": "Eine Hütte für das Holz",
+   "text": "Die Altenauer Hütte, 1641 stillgelegt, wird wieder angefeuert, damit der junge Clausthaler Wald geschont und der Altenauer, ‚welche sonsten verfaulen müssen‘, verbraucht wird.",
+   "cite": "#/text/holz/huette/5",
+   "citeLabel": "Hütte [5]"
+  },
+  {
    "d": "20. September 1679",
    "side": "besucher",
    "titel": "Leibniz' Vertrag",
@@ -97,6 +113,14 @@
    "cite": "#/text/leibniz/probe/7",
    "citeLabel": "Probe [7]",
    "plate": "calvoer_s108"
+  },
+  {
+   "d": "1703",
+   "side": "wald",
+   "titel": "Stubbenkohle",
+   "text": "Auf Vorschlag des Oberförsters Happe verkohlt man auch die Wurzelstöcke gefällter Tannen, um das Stammholz zu sparen. Um 1760 ist fast die Hälfte der Tannenkohle Stubbenkohle.",
+   "cite": "#/text/holz/huette/4",
+   "citeLabel": "Hütte [4]"
   },
   {
    "d": "1714",
