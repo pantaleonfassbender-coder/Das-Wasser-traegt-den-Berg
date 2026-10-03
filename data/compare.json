@@ -1,4 +1,56 @@
 {
  "lede": "Zwei oder mehr Stimmen zu derselben Sache, nebeneinander gelesen: Bergamt und Bergleute, Gelehrte und Praktiker, Berichte aus verschiedenen Jahrhunderten.",
- "pairs": []
+ "pairs": [
+  {
+   "id": "holz",
+   "titel": "Holz, ewig oder nach Anweisung",
+   "frage": "Was die Freiheiten von 1521, 1532 und 1554 über das Holz sagen.",
+   "note": "1521 geben die Grafen von Hohnstein das Holz aus allen Wäldern frei, ‚nun und zu ewigen Zeiten‘; nur die Holzkohle ist auf zehn Jahre begrenzt. 1532 ist das Bauholz zinsfrei, aber ‚nach Anweisung unsers Försters‘. 1554 steht alles Holz unter den Förstern, und die Holzkohle kostet nach fünf Jahren einen Waldzins. In dreiunddreißig Jahren wird das Holz vom Geschenk zur verwalteten Ware: Der Oberharz verbrauchte seinen Wald schneller, als er nachwuchs.",
+   "voices": [
+    {
+     "text": "freiheit",
+     "sec": "hohnstein",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "freiheit",
+     "sec": "heinrich",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "freiheit",
+     "sec": "clausthal",
+     "n": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "regiment",
+   "titel": "Gewählt oder gesetzt",
+   "frage": "Wer die Bergstadt regieren soll, 1521 und 1554.",
+   "note": "In Hohnstein 1521 sollen die Bergleute ‚unter sich Burgemeister, Richter und Rath zu erwehlen Macht haben‘, bestätigt vom Grafen. In Clausthal 1554 setzt der Herzog ‚erstlich‘ einen Berghauptmann, einen Bergmeister, Richter und Schöffen, ‚die sie von unserntwegen regieren‘; Rat und Richter dürfen sie zwar wählen, aber beeidigt und bestätigt. Das Bergamt, das in diesem Apparat und im Begleitspiel regiert, war von Anfang an ein Amt des Landesherrn, nicht der Bergleute.",
+   "voices": [
+    {
+     "text": "freiheit",
+     "sec": "hohnstein",
+     "n": [
+      4
+     ]
+    },
+    {
+     "text": "freiheit",
+     "sec": "clausthal",
+     "n": [
+      3
+     ]
+    }
+   ]
+  }
+ ]
 }

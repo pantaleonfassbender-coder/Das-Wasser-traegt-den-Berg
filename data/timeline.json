@@ -2,10 +2,31 @@
  "lede": "Von den ersten Bergfreiheiten um 1520 bis zum Übergang des Oberharzes an Preußen 1866. Die Stationen verweisen auf die Stellen im Apparat; wo noch kein Text abgedruckt ist, folgen sie der neueren Literatur und sagen es.",
  "stations": [
   {
-   "d": "1521",
+   "d": "16. Juni 1521",
    "side": "bergamt",
    "titel": "Die erste Bergfreiheit",
-   "text": "Die Grafen von Hohnstein erlassen für St. Andreasberg eine Bergfreiheit, nachdem reiche Silbererze gefunden wurden; weitere Freiheitsbriefe folgen für Zellerfeld, Clausthal und die anderen Bergstädte. (Nach der neueren Literatur; Modul geplant.)"
+   "text": "Die Grafen von Hohnstein geben für ihre Herrschaft Lauterberg, in der St. Andreasberg entsteht, eine Bergfreiheit: Holz aus allen Wäldern ‚nun und zu ewigen Zeiten‘, drei Jahre nur der fünfzehnte Teil als Zehnt, ein selbst gewählter Rat, freier Zu- und Abzug.",
+   "cite": "#/text/freiheit/hohnstein/1",
+   "citeLabel": "Hohnstein [1]",
+   "plate": "calvoer_s215"
+  },
+  {
+   "d": "8. April 1532",
+   "side": "bergamt",
+   "titel": "Die Freiheit Herzog Heinrichs",
+   "text": "Herzog Heinrich der Jüngere von Braunschweig gibt eine Bergfreiheit für Gittelde, den Grund und Zellerfeld. Sie beginnt mit einem Erbstollen, der den Gruben die ‚Wasser-Noht‘ genommen hat; das Silber muss in die Kammer des Herzogs.",
+   "cite": "#/text/freiheit/heinrich/1",
+   "citeLabel": "Heinrich [1]",
+   "plate": "merian_zellerfeld"
+  },
+  {
+   "d": "21. Juni 1554",
+   "side": "bergamt",
+   "titel": "Die Freiheit für Clausthal",
+   "text": "Herzog Ernst von Grubenhagen gibt der Bergstadt auf dem Clausberg ihre Freiheit: Holz nach Anweisung der Förster, ein Bergamt von seinetwegen, eine Hütte auf seine Kosten, und Zellbach und Innerste ‚zum Bergwercke nothdürfftig‘ zu gebrauchen.",
+   "cite": "#/text/freiheit/clausthal/5",
+   "citeLabel": "Clausthal [5]",
+   "plate": "calvoer_s219"
   },
   {
    "d": "1617",

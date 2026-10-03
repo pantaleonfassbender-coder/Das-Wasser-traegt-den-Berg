@@ -1,13 +1,15 @@
 {
- "shipped": [],
- "planned": [
+ "shipped": [
   {
    "id": "freiheit",
+   "datei": "freiheit",
    "side": "bergamt",
-   "kurz": "Die Bergfreiheiten, 1520–1550",
-   "warum": "Wie der Oberharz besiedelt wurde: Die Landesherren versprachen Bergleuten aus dem Erzgebirge Freiheiten, Holz, Gericht und Steuerfreiheit, wenn sie kamen und Gruben öffneten. Was die Freiheitsbriefe gewährten und was sie dafür verlangten.",
-   "quelle": "H. Calvör, Historische Nachricht von der Unter- und gesamten Ober-Harzischen Bergwerke (Braunschweig 1765) (Bergfreiheiten, Auswahl)."
-  },
+   "kurz": "Die Bergfreiheiten, 1521–1554",
+   "zk": "Hohnstein, Heinrich, Clausthal",
+   "warum": "Wie man Bergleute in ein Gebirge lockte, auf dem kein Getreide wuchs: Holz aus allen Wäldern, Bier ohne Steuer, Jahre ohne Zehnt, ein eigener Markt, freier Zu- und Abzug. Drei Freiheitsbriefe von 1521, 1532 und 1554 zeigen, wie aus den Versprechen eine Ordnung wurde: das Holz nach Anweisung der Förster, das Silber in die Kammer des Landesherrn, ein Bergamt von seinetwegen, und das Wasser als Recht des Bergwerks. Nach Calvörs Abdruck von 1765, am Seitenbild gelesen, mit Übertragung, vier Tafeln und einem Vergleich als Grafik."
+  }
+ ],
+ "planned": [
   {
    "id": "bergamt",
    "side": "bergamt",

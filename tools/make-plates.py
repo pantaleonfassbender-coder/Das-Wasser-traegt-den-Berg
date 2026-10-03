@@ -20,6 +20,11 @@ DEST = ROOT / "assets" / "plates"
 UA = {"User-Agent": "Mozilla/5.0 (research; Das Wasser traegt den Berg)"}
 
 PLATES = {
+    # Modul 1
+    "calvoer_s215": ("ia", "https://archive.org/download/10705761bsb/page/n234_w1400.jpg", (40, 40, 980, 458)),
+    "calvoer_s219": ("ia", "https://archive.org/download/10705761bsb/page/n238_w1400.jpg", (40, 280, 980, 640)),
+    "merian_clausthal": ("commons", "File:Merian Clausthal.JPG", (0, 0, 1000, 495)),
+    "merian_zellerfeld": ("commons", "File:Zellerfeld (Merian).jpg", None),
 }
 
 

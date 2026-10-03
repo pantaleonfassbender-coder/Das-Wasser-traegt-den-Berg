@@ -1,5 +1,34 @@
 {
  "lede": "Ansichten der Bergstädte, Titel und Holzschnitte der Bergbücher, Kupfertafeln der Maschinen: gemeinfreie Bilder, jedes mit seiner Herkunft.",
  "credit": "Die Tafeln sind gemeinfreie Drucke des 16. bis 19. Jahrhunderts; jede nennt Druck und Fundort. Ausschnitte aus Scans des Internet Archive und der Bibliotheken sind als solche bezeichnet.",
- "plates": []
+ "plates": [
+  {
+   "id": "calvoer_s215",
+   "side": "bergamt",
+   "titel": "‚welche noch niemahls gedrucket ist‘",
+   "caption": "Calvörs Seite 215: der Anfang der Hohnsteiner Bergfreiheit von 1521, die er 1765 nach eigener Angabe zum ersten Mal drucken ließ. Das erste Versprechen ist das Holz (Hohnstein [1]).",
+   "source": "H. Calvör, Historische Nachricht von der Unter- und gesamten Ober-Harzischen Bergwerke (Braunschweig 1765), S. 215; Internet Archive 10705761bsb (gemeinfrei), Ausschnitt."
+  },
+  {
+   "id": "calvoer_s219",
+   "side": "bergamt",
+   "titel": "Die Tafel im Clausthaler Bergamt",
+   "caption": "Der Titel der Bergfreiheit Herzog Ernsts von 1554, ‚nach dem Original so auf Pergament geschrieben, und auf einer großen im Clausthalischen Bergamte hangenden Tafel geheftet ist‘ (Clausthal [1]).",
+   "source": "H. Calvör, Historische Nachricht von der Unter- und gesamten Ober-Harzischen Bergwerke (Braunschweig 1765), S. 219; Internet Archive 10705761bsb (gemeinfrei), Ausschnitt."
+  },
+  {
+   "id": "merian_clausthal",
+   "side": "bergamt",
+   "titel": "‚Bergstatt Clausthal Auf dem Hartz gelegen‘",
+   "caption": "Merians Ansicht von Clausthal, um 1650, hundert Jahre nach der Bergfreiheit von 1554: Häuser, Kirche, Schächte und Halden auf der Hochfläche, links eine Windmühle. Die Buchstaben der Legende bezeichnen Gruben und Gebäude.",
+   "source": "Matthäus Merian, Topographia, um 1650; via Wikimedia Commons (gemeinfrei), Ausschnitt (obere Ansicht des Blattes)."
+  },
+  {
+   "id": "merian_zellerfeld",
+   "side": "bergamt",
+   "titel": "‚Bergstatt Zellerfeld Auf dem Harte‘",
+   "caption": "Merians Ansicht der Nachbarstadt Zellerfeld, um 1650, die zum Fürstentum Braunschweig-Wolfenbüttel gehörte und ihre Freiheit von Herzog Heinrich dem Jüngeren hatte (Heinrich [1]). Im Vordergrund Halden und Schachtgebäude, in der Mitte die Stadt.",
+   "source": "Matthäus Merian, Topographia, um 1650; Digitalisat der Herzog August Bibliothek Wolfenbüttel, via Wikimedia Commons (gemeinfrei)."
+  }
+ ]
 }

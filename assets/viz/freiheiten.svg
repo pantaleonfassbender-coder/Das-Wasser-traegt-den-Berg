@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 590" role="img" aria-labelledby="fr-t fr-d" font-family="var(--serif)">
+<title id="fr-t">Drei Bergfreiheiten im Vergleich</title>
+<desc id="fr-d">Eine Tabelle: Zeilen Holz, Wasser, Zehnt, Silber, Hütten, Regiment, Schulden; Spalten Hohnstein 1521, Herzog Heinrich 1532, Clausthal 1554. Von links nach rechts wird das Holz knapper, das Silber und die Hütten kommen unter den Landesherrn, und das Wasser wird vom Fischwasser zum Recht des Bergwerks.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Was die Bergfreiheiten versprachen</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Von 1521 nach 1554: das Holz nach Anweisung, das Silber in die Kammer, das Bergamt vom Landesherrn, und das Wasser wird ein Recht des Bergwerks.</text>
+<a href="#/text/freiheit/hohnstein/1"><text x="272.5" y="86" text-anchor="middle" font-size="16" font-weight="bold" fill="var(--bergamt)" text-decoration="underline">1521</text></a>
+<text x="272.5" y="104" text-anchor="middle" font-size="12.5" fill="var(--ink2)">Hohnstein</text>
+<a href="#/text/freiheit/heinrich/1"><text x="517.5" y="86" text-anchor="middle" font-size="16" font-weight="bold" fill="var(--bergamt)" text-decoration="underline">1532</text></a>
+<text x="517.5" y="104" text-anchor="middle" font-size="12.5" fill="var(--ink2)">Herzog Heinrich</text>
+<a href="#/text/freiheit/clausthal/1"><text x="762.5" y="86" text-anchor="middle" font-size="16" font-weight="bold" fill="var(--bergamt)" text-decoration="underline">1554</text></a>
+<text x="762.5" y="104" text-anchor="middle" font-size="12.5" fill="var(--ink2)">Clausthal</text>
+<rect x="10" y="115" width="880" height="58" rx="8" fill="var(--wald)" opacity="0.05"/>
+<text x="22" y="149.0" font-size="14.5" font-weight="bold" fill="var(--wald)">Holz</text>
+<a href="#/text/freiheit/hohnstein/1"><text x="272.5" y="141.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">frei aus allen Wäldern,</text><text x="272.5" y="158.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">‚nun und zu ewigen Zeiten‘</text></a>
+<a href="#/text/freiheit/heinrich/3"><text x="517.5" y="141.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Bauholz frei, aber</text><text x="517.5" y="158.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">‚nach Anweisung des Försters‘</text></a>
+<a href="#/text/freiheit/clausthal/1"><text x="762.5" y="141.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">nach Anweisung der Förster;</text><text x="762.5" y="158.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Kohlholz nach 5 Jahren Waldzins</text></a>
+<rect x="10" y="179" width="880" height="58" rx="8" fill="var(--wasser)" opacity="0.12"/>
+<text x="22" y="213.0" font-size="14.5" font-weight="bold" fill="var(--wasser)">Wasser</text>
+<a href="#/text/freiheit/hohnstein/5"><text x="272.5" y="205.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">zwei Bäche zum Fischen,</text><text x="272.5" y="222.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">alle anderen zu meiden</text></a>
+<a href="#/text/freiheit/heinrich/1"><text x="517.5" y="205.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">ein Erbstollen nimmt die</text><text x="517.5" y="222.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">‚Wasser-Noht‘; Wasser offen</text></a>
+<a href="#/text/freiheit/clausthal/5"><text x="762.5" y="205.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Zellbach und Innerste ‚zum</text><text x="762.5" y="222.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Bergwercke nothdürfftig‘</text></a>
+<line x1="140" y1="176" x2="886" y2="176" stroke="var(--line)" stroke-width="1"/>
+<rect x="10" y="243" width="880" height="58" rx="8" fill="var(--bergamt)" opacity="0.05"/>
+<text x="22" y="277.0" font-size="14.5" font-weight="bold" fill="var(--bergamt)">Zehnt</text>
+<a href="#/text/freiheit/hohnstein/3"><text x="272.5" y="269.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">3 Jahre nur der</text><text x="272.5" y="286.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">fünfzehnte statt zehnte Teil</text></a>
+<a href="#/text/freiheit/heinrich/4"><text x="517.5" y="277.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">3 Jahre frei</text></a>
+<a href="#/text/freiheit/clausthal/2"><text x="762.5" y="277.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">5 Jahre frei</text></a>
+<line x1="140" y1="240" x2="886" y2="240" stroke="var(--line)" stroke-width="1"/>
+<rect x="10" y="307" width="880" height="58" rx="8" fill="var(--bergamt)" opacity="0.05"/>
+<text x="22" y="341.0" font-size="14.5" font-weight="bold" fill="var(--bergamt)">Silber</text>
+<a href="#/text/freiheit/hohnstein/3"><text x="272.5" y="333.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">5 Jahre freier Verkauf,</text><text x="272.5" y="350.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">dann an den Zehnten</text></a>
+<a href="#/text/freiheit/heinrich/4"><text x="517.5" y="333.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">an die Kammer des Herzogs,</text><text x="517.5" y="350.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">8 Gulden 1 Ort die Mark</text></a>
+<a href="#/text/freiheit/clausthal/4"><text x="762.5" y="333.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">an die Zehntkammer,</text><text x="762.5" y="350.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">12, nach 2 Jahren 10 Gulden</text></a>
+<line x1="140" y1="304" x2="886" y2="304" stroke="var(--line)" stroke-width="1"/>
+<rect x="10" y="371" width="880" height="58" rx="8" fill="var(--wald)" opacity="0.05"/>
+<text x="22" y="405.0" font-size="14.5" font-weight="bold" fill="var(--wald)">Hütten</text>
+<a href="#/text/freiheit/hohnstein/5"><text x="272.5" y="397.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">frei zu bauen; der Graf</text><text x="272.5" y="414.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">verzichtet auf Hütten</text></a>
+<a href="#/text/freiheit/heinrich/2"><text x="517.5" y="397.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Hütten und Pochwerke</text><text x="517.5" y="414.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">frei wie Wege und Wasser</text></a>
+<a href="#/text/freiheit/clausthal/3"><text x="762.5" y="397.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">die Hütte des Herzogs;</text><text x="762.5" y="414.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">nur im Land schmelzen</text></a>
+<line x1="140" y1="368" x2="886" y2="368" stroke="var(--line)" stroke-width="1"/>
+<rect x="10" y="435" width="880" height="58" rx="8" fill="var(--bergamt)" opacity="0.05"/>
+<text x="22" y="469.0" font-size="14.5" font-weight="bold" fill="var(--bergamt)">Regiment</text>
+<a href="#/text/freiheit/hohnstein/4"><text x="272.5" y="461.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Rat und Richter gewählt,</text><text x="272.5" y="478.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">vom Grafen bestätigt</text></a>
+<a href="#/text/freiheit/heinrich/4"><text x="517.5" y="461.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Amtleute des Herzogs nach</text><text x="517.5" y="478.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">der Joachimsthaler Ordnung</text></a>
+<a href="#/text/freiheit/clausthal/3"><text x="762.5" y="461.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Berghauptmann, Bergmeister</text><text x="762.5" y="478.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">‚von unserntwegen‘</text></a>
+<line x1="140" y1="432" x2="886" y2="432" stroke="var(--line)" stroke-width="1"/>
+<rect x="10" y="499" width="880" height="58" rx="8" fill="var(--bergleute)" opacity="0.05"/>
+<text x="22" y="533.0" font-size="14.5" font-weight="bold" fill="var(--bergleute)">Schulden</text>
+<a href="#/text/freiheit/hohnstein/2"><text x="272.5" y="525.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">keine Klage um Schulden</text><text x="272.5" y="542.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">von anderswo; freier Abzug</text></a>
+<a href="#/text/freiheit/heinrich/2"><text x="517.5" y="525.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">freier Abzug, wenn die</text><text x="517.5" y="542.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Schulden vor Ort bezahlt sind</text></a>
+<a href="#/text/freiheit/clausthal/5"><text x="762.5" y="525.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">freier Zu- und Abzug</text><text x="762.5" y="542.0" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">(Art. 17, wie 1532)</text></a>
+<line x1="140" y1="496" x2="886" y2="496" stroke="var(--line)" stroke-width="1"/>
+<line x1="395" y1="118" x2="395" y2="554" stroke="var(--line)" stroke-width="1"/>
+<line x1="640" y1="118" x2="640" y2="554" stroke="var(--line)" stroke-width="1"/>
+</svg>
