@@ -73,10 +73,30 @@
    "plate": "calvoer_s97"
   },
   {
-   "d": "1680–1686",
+   "d": "20. September 1679",
    "side": "besucher",
-   "titel": "Leibniz im Harz",
-   "text": "Gottfried Wilhelm Leibniz versucht, die Gruben mit Windmühlen zu entwässern, und scheitert. (Modul geplant.)"
+   "titel": "Leibniz' Vertrag",
+   "text": "Das Clausthaler Bergamt und der Hofrat Leibniz schließen einen Rezess: ein Probejahr mit einer Windmühle, bei Erfolg 1200 Taler jährlich auf Lebenszeit. Der Herzog bestätigt ihn am 15. Oktober.",
+   "cite": "#/text/leibniz/vorschlag/5",
+   "citeLabel": "Vorschlag [5]",
+   "plate": "calvoer_s101"
+  },
+  {
+   "d": "1683",
+   "side": "besucher",
+   "titel": "Ein Sturm dreht das Dach",
+   "text": "Ein Sturm wirft Welle und Flügel der Windkunst auf der Catharina ab. Ein Tagebuch des Bergamts hält fest: bei schwachem Wind steht sie, bei starkem bricht sie.",
+   "cite": "#/text/leibniz/probe/5",
+   "citeLabel": "Probe [5]"
+  },
+  {
+   "d": "1686",
+   "side": "besucher",
+   "titel": "Die Maschine wird abgebrochen",
+   "text": "Nach dem Beschluss des Hofes vom April 1685 wird die Windmühle abgebrochen; Leibniz erhält die Materialien. Sein eigentlicher Plan, das Wasser zurückzupumpen, wurde nie gebaut.",
+   "cite": "#/text/leibniz/probe/7",
+   "citeLabel": "Probe [7]",
+   "plate": "calvoer_s108"
   },
   {
    "d": "1714",

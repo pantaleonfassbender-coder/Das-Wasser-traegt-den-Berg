@@ -36,6 +36,11 @@ PLATES = {
     "calvoer_tab12": ("ia", "https://archive.org/download/10705759bsb/page/n257_w1400.jpg", None),
     "calvoer_s89": ("ia", "https://archive.org/download/10705759bsb/page/n116_w1400.jpg", (40, 400, 1000, 680)),
     "loehneyss_s233": ("ia", "https://www.e-rara.ch/i3f/v20/4845347/full/1400,/0/default.jpg", (60, 545, 1000, 925)),
+    # Modul 5 (Calvör 1763; Gerland 1906, IA leibnizensnachg00gerlgoog, Blatt = S.+12)
+    "calvoer_s101": ("ia", "https://archive.org/download/10705759bsb/page/n128_w1400.jpg", (40, 200, 1000, 475)),
+    "calvoer_s108": ("ia", "https://archive.org/download/10705759bsb/page/n135_w1400.jpg", (40, 90, 1000, 480)),
+    "gerland_fig129": ("ia", "https://archive.org/download/leibnizensnachg00gerlgoog/page/n194_w1400.jpg", (140, 170, 655, 690)),
+    "leibniz_francke": ("commons", "File:Christoph Bernhard Francke - Bildnis des Philosophen Leibniz (ca. 1695).jpg", None),
 }
 
 

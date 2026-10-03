@@ -31,16 +31,17 @@
    "kurz": "Teiche und Gräben",
    "zk": "Bau, Verzeichnis, Gräben",
    "warum": "Auf der Hochfläche um Clausthal gibt es keine großen Flüsse, nur Bäche, die im Sommer und im Frost versiegen. Darum bauten die Bergämter Teiche mit Dämmen aus Rasen, um 1760 allein 32 für Clausthal und 31 für Zellerfeld, maßen jede Woche ihren Vorrat und gruben Gräben über Meilen: den Rehberger Graben siebzehn Jahre lang, den Dammgraben in 75 Wochen für 34 233 Taler. Und zweimal brachen Teiche, 1572 und am zweiten Weihnachtstag 1733. Nach Calvör (1763), am Seitenbild gelesen, mit Übertragung, zwei Tafeln und der Kaskade des Wassers als Grafik."
+  },
+  {
+   "id": "leibniz",
+   "datei": "leibniz",
+   "side": "besucher",
+   "kurz": "Leibniz im Harz, 1678–1686",
+   "zk": "Vorschlag, Probe, Leibniz, Urteile",
+   "warum": "Gottfried Wilhelm Leibniz versprach, die Gruben ‚mittelst der Verbindung des Windes und Wassers‘ trocken zu halten, und verlangte dafür 1200 Taler im Jahr auf Lebenszeit. Gemeint war ein Speicher: Der Wind sollte das schon benutzte Wasser wieder hinaufpumpen. Das Bergamt hielt ihn beim Wortlaut und ließ eine Windmühle bauen, die unmittelbar pumpte; sie brach im Sturm und an ihren Gestängen, und 1686 wurde sie abgebrochen. Calvörs Bericht aus den Akten (1763), am Seitenbild gelesen, neben Leibniz' eigenen Worten nach Gerland (1906) und den Urteilen Trebras und Gerlands, mit vier Tafeln und einer Zeitleiste des Versuchs."
   }
  ],
  "planned": [
-  {
-   "id": "leibniz",
-   "side": "besucher",
-   "kurz": "Leibniz im Harz, 1680–1686",
-   "warum": "Gottfried Wilhelm Leibniz wollte die Gruben mit Windmühlen entwässern, schloss dafür einen Vertrag mit dem Bergamt und scheiterte. Seine eigenen Schriften neben Calvörs Bericht und dem Urteil des Bergmanns Trebra von 1789: ‚misslungene Versuche‘.",
-   "quelle": "E. Gerland (Hg.), Leibnizens nachgelassene Schriften physikalischen, mechanischen und technischen Inhalts (Leipzig 1906); H. Calvör, Acta historico-chronologico-mechanica circa metallurgiam in Hercynia superiori (Braunschweig 1763); F. W. H. von Trebra, Des Hofraths von Leibnitz misslungene Versuche an den Bergwerksmaschinen des Harzes, in: Bergbaukunde I (Leipzig 1789)."
-  },
   {
    "id": "holz",
    "side": "wald",

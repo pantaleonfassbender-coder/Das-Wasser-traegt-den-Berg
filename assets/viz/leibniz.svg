@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-labelledby="lz-t lz-d" font-family="var(--serif)">
+<title id="lz-t">Zwei Windmühlen: die gemeinte und die gebaute</title>
+<desc id="lz-d">Links der Plan, den Leibniz im Juli 1680 erklärte: Ein oberer Behälter gibt Wasser auf ein Kunstrad, das wie bisher die Pumpen in der Grube treibt; das abgefallene Wasser sammelt sich in einem unteren Behälter, und Windmühlen heben es wieder in den oberen. Dieser Plan wurde nie gebaut. Rechts die Windmühle, die das Bergamt verlangte und die 1681 bis 1686 auf der Grube Catharina stand: Sie pumpte unmittelbar über ein Gestänge aus dem Schacht, hob im März 1682 eine Stunde lang 11 Sätze und 1683 zwei bis drei Tage 14 Sätze, stand bei schwachem Wind still und brach bei starkem. Unten eine Zeitleiste von 1678 bis 1686: Harzingks Modell, der Vertrag vom 20. September 1679, Leibniz’ Erklärung im Juli 1680, die erste Probe 1681, die siebzehn Zweifel 1682, der Sturm 1683, die Denkschrift und der Beschluss des Hofes im April 1685, der Abbruch 1686.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Zwei Windmühlen: die gemeinte und die gebaute</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Schema nach Calvör (1763), nicht maßstäblich. Der Wind sollte speichern, nicht pumpen; gebaut wurde die Mühle, die pumpte.</text>
+<defs><marker id="lz-a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--wasser)"/></marker></defs>
+<rect x="16" y="66" width="422" height="352" rx="10" fill="var(--panel)" stroke="var(--line)" stroke-width="1.2"/>
+<a href="#/text/leibniz/probe/1"><text x="227" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="var(--besucher)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Was Leibniz meinte (Juli 1680)</text></a>
+<rect x="462" y="66" width="422" height="352" rx="10" fill="var(--panel)" stroke="var(--line)" stroke-width="1.2"/>
+<a href="#/text/leibniz/probe/3"><text x="673" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="var(--bergamt)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Was gebaut wurde (Catharina, 1681–1686)</text></a>
+<rect x="60" y="130" width="120" height="34" rx="6" fill="var(--wasser)" opacity="0.5"/>
+<a href="#/text/leibniz/probe/1"><text x="120" y="124" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">oberer Behälter</text></a>
+<circle cx="120" cy="220" r="26" fill="none" stroke="var(--bergamt)" stroke-width="2.6"/>
+<line x1="120" y1="220" x2="146.0" y2="220.0" stroke="var(--bergamt)" stroke-width="1.4"/>
+<line x1="120" y1="220" x2="133.0" y2="242.5" stroke="var(--bergamt)" stroke-width="1.4"/>
+<line x1="120" y1="220" x2="107.0" y2="242.5" stroke="var(--bergamt)" stroke-width="1.4"/>
+<line x1="120" y1="220" x2="94.0" y2="220.0" stroke="var(--bergamt)" stroke-width="1.4"/>
+<line x1="120" y1="220" x2="107.0" y2="197.5" stroke="var(--bergamt)" stroke-width="1.4"/>
+<line x1="120" y1="220" x2="133.0" y2="197.5" stroke="var(--bergamt)" stroke-width="1.4"/>
+<path d="M 150 164 L 150 190" stroke="var(--wasser)" stroke-width="4" marker-end="url(#lz-a)"/>
+<a href="#/text/leibniz/probe/1"><text x="36" y="222" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--bergamt)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Kunstrad</text></a>
+<a href="#/text/leibniz/probe/1"><text x="140" y="404" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--bergamt)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">die Pumpen wie bisher</text></a>
+<line x1="120" y1="246" x2="120" y2="390" stroke="var(--ink)" stroke-width="2.2" stroke-dasharray="10 4"/>
+<rect x="108" y="292" width="24" height="16" fill="var(--wasser)" opacity="0.55"/>
+<rect x="108" y="332" width="24" height="16" fill="var(--wasser)" opacity="0.55"/>
+<rect x="108" y="372" width="24" height="16" fill="var(--wasser)" opacity="0.55"/>
+<rect x="200" y="300" width="130" height="34" rx="6" fill="var(--wasser)" opacity="0.5"/>
+<a href="#/text/leibniz/probe/1"><text x="265" y="352" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">unterer Behälter</text></a>
+<path d="M 146 236 C 180 270, 200 290, 222 300" fill="none" stroke="var(--wasser)" stroke-width="3" marker-end="url(#lz-a)"/>
+<rect x="336" y="164" width="28" height="36" fill="var(--panel)" stroke="var(--besucher)" stroke-width="1.6"/>
+<path d="M 334 222 L 350 200 L 366 222" fill="none" stroke="var(--besucher)" stroke-width="1.6"/>
+<line x1="350" y1="170" x2="380.8" y2="184.4" stroke="var(--besucher)" stroke-width="3"/>
+<line x1="350" y1="170" x2="335.6" y2="200.8" stroke="var(--besucher)" stroke-width="3"/>
+<line x1="350" y1="170" x2="319.2" y2="155.6" stroke="var(--besucher)" stroke-width="3"/>
+<line x1="350" y1="170" x2="364.4" y2="139.2" stroke="var(--besucher)" stroke-width="3"/>
+<circle cx="350" cy="170" r="4" fill="var(--besucher)"/>
+<path d="M 320 300 C 330 250, 300 190, 186 146" fill="none" stroke="var(--wasser)" stroke-width="3" stroke-dasharray="7 4" marker-end="url(#lz-a)"/>
+<a href="#/text/leibniz/probe/1"><text x="352" y="116" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--besucher)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">der Wind hebt es zurück,</text></a>
+<a href="#/text/leibniz/probe/1"><text x="352" y="131" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--besucher)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚oft in einer Stunde‘</text></a>
+<a href="#/text/leibniz/probe/7"><text x="330" y="370" text-anchor="middle" font-size="14" font-weight="bold" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">nie gebaut</text></a>
+<a href="#/text/leibniz/probe/7"><text x="330" y="388" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">die Kommunion widersprach</text></a>
+<path d="M 480 200 L 860 200" stroke="var(--ink2)" stroke-width="1.4"/>
+<rect x="626" y="134" width="28" height="36" fill="var(--panel)" stroke="var(--bergamt)" stroke-width="1.6"/>
+<path d="M 624 192 L 640 170 L 656 192" fill="none" stroke="var(--bergamt)" stroke-width="1.6"/>
+<line x1="640" y1="140" x2="670.8" y2="154.4" stroke="var(--bergamt)" stroke-width="3"/>
+<line x1="640" y1="140" x2="612.1" y2="159.5" stroke="var(--bergamt)" stroke-width="3"/>
+<line x1="640" y1="140" x2="609.2" y2="125.6" stroke="var(--bergamt)" stroke-width="3"/>
+<line x1="640" y1="140" x2="654.4" y2="109.2" stroke="var(--bergamt)" stroke-width="3"/>
+<circle cx="640" cy="140" r="4" fill="var(--bergamt)"/>
+<rect x="624" y="200" width="32" height="200" fill="var(--panel)" stroke="var(--ink2)" stroke-width="1.2"/>
+<line x1="640" y1="170" x2="640" y2="392" stroke="var(--ink)" stroke-width="2.2" stroke-dasharray="10 4"/>
+<rect x="629" y="220" width="22" height="12" fill="var(--wasser)" opacity="0.55"/>
+<rect x="629" y="242" width="22" height="12" fill="var(--wasser)" opacity="0.55"/>
+<rect x="629" y="264" width="22" height="12" fill="var(--wasser)" opacity="0.55"/>
+<rect x="629" y="286" width="22" height="12" fill="var(--wasser)" opacity="0.55"/>
+<rect x="629" y="308" width="22" height="12" fill="var(--wasser)" opacity="0.55"/>
+<rect x="629" y="330" width="22" height="12" fill="var(--wasser)" opacity="0.55"/>
+<rect x="629" y="352" width="22" height="12" fill="var(--wasser)" opacity="0.55"/>
+<rect x="629" y="374" width="22" height="12" fill="var(--wasser)" opacity="0.55"/>
+<a href="#/text/leibniz/probe/3"><text x="670" y="236" text-anchor="start" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">März 1682: 11 Sätze, eine Stunde</text></a>
+<a href="#/text/leibniz/probe/5"><text x="670" y="256" text-anchor="start" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">1683: 14 Sätze, zwei bis drei Tage</text></a>
+<a href="#/text/leibniz/probe/5"><text x="670" y="276" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚nicht aber auf den Stollen‘</text></a>
+<a href="#/text/leibniz/probe/5"><text x="670" y="316" text-anchor="start" font-size="12" font-weight="normal" fill="var(--ink2)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">schwacher Wind: sie steht</text></a>
+<a href="#/text/leibniz/probe/5"><text x="670" y="336" text-anchor="start" font-size="12" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">starker Wind: sie bricht</text></a>
+<a href="#/text/leibniz/probe/6"><text x="670" y="356" text-anchor="start" font-size="12" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Einbrüche in die Mühle</text></a>
+<a href="#/text/leibniz/probe/2"><text x="610" y="236" text-anchor="end" font-size="12" font-weight="normal" fill="var(--bergamt)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">unmittelbar</text></a>
+<a href="#/text/leibniz/probe/2"><text x="610" y="252" text-anchor="end" font-size="12" font-weight="normal" fill="var(--bergamt)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">aus dem Schacht</text></a>
+<a href="#/text/leibniz/probe/2"><text x="610" y="290" text-anchor="end" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚ein neuer Vortrag‘:</text></a>
+<a href="#/text/leibniz/probe/2"><text x="610" y="305" text-anchor="end" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">das Bergamt besteht</text></a>
+<a href="#/text/leibniz/probe/2"><text x="610" y="320" text-anchor="end" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">auf dieser Mühle</text></a>
+<a href="#/text/leibniz/probe/5"><text x="760" y="130" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">1683 dreht ein Sturm</text></a>
+<a href="#/text/leibniz/probe/5"><text x="760" y="146" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">das ganze Dach um</text></a>
+<line x1="60" y1="530" x2="860" y2="530" stroke="var(--ink2)" stroke-width="1.5"/>
+<line x1="60" y1="526" x2="60" y2="534" stroke="var(--ink2)"/>
+<text x="60" y="550" text-anchor="middle" font-size="11" fill="var(--ink2)">1678</text>
+<line x1="149" y1="526" x2="149" y2="534" stroke="var(--ink2)"/>
+<text x="149" y="550" text-anchor="middle" font-size="11" fill="var(--ink2)">1679</text>
+<line x1="238" y1="526" x2="238" y2="534" stroke="var(--ink2)"/>
+<text x="238" y="550" text-anchor="middle" font-size="11" fill="var(--ink2)">1680</text>
+<line x1="327" y1="526" x2="327" y2="534" stroke="var(--ink2)"/>
+<text x="327" y="550" text-anchor="middle" font-size="11" fill="var(--ink2)">1681</text>
+<line x1="416" y1="526" x2="416" y2="534" stroke="var(--ink2)"/>
+<text x="416" y="550" text-anchor="middle" font-size="11" fill="var(--ink2)">1682</text>
+<line x1="504" y1="526" x2="504" y2="534" stroke="var(--ink2)"/>
+<text x="504" y="550" text-anchor="middle" font-size="11" fill="var(--ink2)">1683</text>
+<line x1="593" y1="526" x2="593" y2="534" stroke="var(--ink2)"/>
+<text x="593" y="550" text-anchor="middle" font-size="11" fill="var(--ink2)">1684</text>
+<line x1="682" y1="526" x2="682" y2="534" stroke="var(--ink2)"/>
+<text x="682" y="550" text-anchor="middle" font-size="11" fill="var(--ink2)">1685</text>
+<line x1="771" y1="526" x2="771" y2="534" stroke="var(--ink2)"/>
+<text x="771" y="550" text-anchor="middle" font-size="11" fill="var(--ink2)">1686</text>
+<circle cx="82" cy="530" r="6" fill="var(--ink)"/>
+<line x1="82" y1="522" x2="82" y2="510" stroke="var(--ink)" stroke-width="1"/>
+<a href="#/text/leibniz/vorschlag/1"><text x="82.22222222222223" y="504" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Harzingks Modell</text></a>
+<circle cx="213" cy="530" r="6" fill="var(--besucher)"/>
+<line x1="213" y1="538" x2="213" y2="562" stroke="var(--besucher)" stroke-width="1"/>
+<a href="#/text/leibniz/vorschlag/5"><text x="212.88888888889133" y="576" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Vertrag, 1200 Taler</text></a>
+<circle cx="285" cy="530" r="6" fill="var(--besucher)"/>
+<line x1="285" y1="522" x2="285" y2="510" stroke="var(--besucher)" stroke-width="1"/>
+<a href="#/text/leibniz/probe/1"><text x="284.88888888888647" y="504" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Leibniz erklärt sich</text></a>
+<circle cx="402" cy="530" r="6" fill="var(--red)"/>
+<line x1="402" y1="538" x2="402" y2="562" stroke="var(--red)" stroke-width="1"/>
+<a href="#/text/leibniz/probe/3"><text x="402.2222222222141" y="576" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">erste Probe, Klappen fliegen</text></a>
+<circle cx="442" cy="530" r="6" fill="var(--bergamt)"/>
+<line x1="442" y1="522" x2="442" y2="484" stroke="var(--bergamt)" stroke-width="1"/>
+<a href="#/text/leibniz/probe/4"><text x="442.2222222222182" y="478" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">17 Zweifel</text></a>
+<circle cx="549" cy="530" r="6" fill="var(--red)"/>
+<line x1="549" y1="522" x2="549" y2="510" stroke="var(--red)" stroke-width="1"/>
+<a href="#/text/leibniz/probe/5"><text x="548.8888888888889" y="504" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Sturm; Tagebuch</text></a>
+<circle cx="709" cy="530" r="6" fill="var(--besucher)"/>
+<line x1="709" y1="538" x2="709" y2="562" stroke="var(--besucher)" stroke-width="1"/>
+<a href="#/text/leibniz/leibniz/3"><text x="708.8888888888848" y="576" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Denkschrift; Hof stoppt</text></a>
+<circle cx="807" cy="530" r="6" fill="var(--red)"/>
+<line x1="807" y1="522" x2="807" y2="510" stroke="var(--red)" stroke-width="1"/>
+<a href="#/text/leibniz/probe/7"><text x="806.6666666666748" y="504" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Abbruch</text></a>
+<text x="60" y="652" font-size="12" fill="var(--ink2)">Rot: Brüche und Abbruch. Die Probe dauerte acht Jahre; Calvör las dafür ‚fast ½ Rieß Papier‘ Akten.</text>
+</svg>

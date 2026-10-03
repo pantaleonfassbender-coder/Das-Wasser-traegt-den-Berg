@@ -194,6 +194,62 @@
      ]
     }
    ]
+  },
+  {
+   "id": "wortlaut",
+   "titel": "Was ein Vertrag sagt",
+   "frage": "Leibniz' Angebot, sein Brief, das Bergamt.",
+   "note": "Leibniz versprach, das Wasser zu sparen ‚oder auch wieder zu gebrauchen‘, und schrieb später, er habe seine Worte ‚eigens‘ so gefasst, dass sie seinen Plan deckten, ohne ihn zu verraten. Das Bergamt las sie anders: als Windmühle, die unmittelbar pumpt. Als Leibniz sich 1680 erklärte, nannte es das einen ‚neuen Vortrag‘ und hielt ihn beim Wortlaut fest. Keiner der beiden Teile hat gelogen; jeder bestand auf seiner Lesart, und gebaut wurde die Maschine, an die Leibniz selbst nicht glaubte.",
+   "voices": [
+    {
+     "text": "leibniz",
+     "sec": "vorschlag",
+     "n": [
+      2,
+      5
+     ]
+    },
+    {
+     "text": "leibniz",
+     "sec": "probe",
+     "n": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "leibniz",
+     "sec": "leibniz",
+     "n": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "schuld",
+   "titel": "Wer hat Leibniz verhindert?",
+   "frage": "Die Bergleute, das Bergamt, der Wind?",
+   "note": "1740 hieß es, die Bergleute hätten aus Angst um ihren Lohn Schwierigkeiten gemacht. Calvör (1763) widerspricht: Säuft die Grube ab, verlieren zuerst die Bergleute ihr Brot; er nennt Leibniz' Unkenntnis des Harzes, seine Abwesenheit und untreue Leute. Trebra (1789) und Gerland (1906) geben dem Bergamt die Schuld. Dazwischen stehen Leibniz' eigene Klage über Einbrüche in die Mühle, deren Täter niemand nennt, und das Tagebuch von 1683, nach dem der Wind zu schwach oder zu stark war.",
+   "voices": [
+    {
+     "text": "leibniz",
+     "sec": "probe",
+     "n": [
+      5,
+      6
+     ]
+    },
+    {
+     "text": "leibniz",
+     "sec": "urteile",
+     "n": [
+      1,
+      2,
+      3
+     ]
+    }
+   ]
   }
  ]
 }

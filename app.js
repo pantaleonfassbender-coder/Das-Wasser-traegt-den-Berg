@@ -4,7 +4,7 @@
 const view = document.getElementById("view");
 const D = { mods: null, plates: null, timeline: null, compare: null, texts: {} };
 const SIDES = { bergamt: "Bergamt und Landesherr", wasser: "Wasser und Maschinen", bergleute: "Bergleute und Knappschaft", wald: "Wald und Hütten", besucher: "Gelehrte und Besucher" };
-const LANGS = { la: "Latein", fnhd: "Frühneuhochdeutsch", nhd: "Älteres Neuhochdeutsch", de: "Deutsch", en: "Übertragung" };
+const LANGS = { la: "Latein", fnhd: "Frühneuhochdeutsch", nhd: "Älteres Neuhochdeutsch", fr: "Französisch", de: "Deutsch", en: "Übertragung" };
 
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const side = s => `<span class="side ${s}">${esc(SIDES[s] || s)}</span>`;
@@ -63,7 +63,7 @@ function overview() {
     <div class="panel"><h3>Wer trug die Kosten, und wer die Gefahr?</h3>
       <p>Der Landesherr nahm den Zehnten, die Gewerken trugen die Zubuße, das Bergamt baute Teiche und Stollen. Die Gefahr trugen die Bergleute: Wasser, Wetter, Fahrten und Staub. Der Bergarzt von Clausthal hat aufgeschrieben, woran sie erkrankten.</p></div>
     <div class="panel"><h3>Warum scheiterte Leibniz?</h3>
-      <p>Ein Universalgelehrter wollte die Gruben mit Windmühlen entwässern und bekam dafür einen Vertrag. Der Wind blieb aus, die Maschinen versagten, die Bergbeamten zweifelten von Anfang an. Der Apparat stellt Leibniz' eigene Schriften neben das Urteil der Bergleute.</p></div>
+      <p>Ein Universalgelehrter wollte die Gruben mit Windmühlen entwässern und bekam dafür einen Vertrag. Bergamt und Erfinder lasen ihn verschieden, der Wind war zu schwach oder zu stark, und 1686 wurde die Maschine abgebrochen. Der Apparat stellt Leibniz' eigene Worte neben Calvörs Bericht aus den Akten und die späteren Urteile über die Schuld.</p></div>
     <div class="panel"><h3>Lässt sich das spielen?</h3>
       <p>Ein Begleitspiel, <a href="https://die-last-der-grundwasser.netlify.app/"><em>Die Last der Grundwasser</em></a>, ist in Vorbereitung: Man führt das Bergamt über Generationen, zwischen Landesherr, Gewerken und Knappschaft, mit Regen und Dürre, Teichen und Stollen. Gruben können absaufen, Bergleute verunglücken. Seine Karten werden auf die Stellen verweisen, die hier abgedruckt sind.</p></div>
   </div>`;
