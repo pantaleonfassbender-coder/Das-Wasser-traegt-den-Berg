@@ -65,7 +65,7 @@ function overview() {
     <div class="panel"><h3>Warum scheiterte Leibniz?</h3>
       <p>Ein Universalgelehrter wollte die Gruben mit Windmühlen entwässern und bekam dafür einen Vertrag. Der Wind blieb aus, die Maschinen versagten, die Bergbeamten zweifelten von Anfang an. Der Apparat stellt Leibniz' eigene Schriften neben das Urteil der Bergleute.</p></div>
     <div class="panel"><h3>Lässt sich das spielen?</h3>
-      <p>Ein Begleitspiel ist in Vorbereitung: Man führt das Bergamt über Generationen, zwischen Landesherr, Gewerken und Knappschaft, mit Regen und Dürre, Teichen und Stollen. Gruben können absaufen, Bergleute verunglücken. Seine Karten werden auf die Stellen verweisen, die hier abgedruckt sind.</p></div>
+      <p>Ein Begleitspiel, <em>Die Last der Grundwasser</em>, ist in Vorbereitung: Man führt das Bergamt über Generationen, zwischen Landesherr, Gewerken und Knappschaft, mit Regen und Dürre, Teichen und Stollen. Gruben können absaufen, Bergleute verunglücken. Seine Karten werden auf die Stellen verweisen, die hier abgedruckt sind.</p></div>
   </div>`;
 }
 
