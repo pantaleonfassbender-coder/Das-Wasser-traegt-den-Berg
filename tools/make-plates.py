@@ -32,6 +32,9 @@ PLATES = {
     "calvoer_s35": ("ia", "https://archive.org/download/10705759bsb/page/n62_w1400.jpg", (40, 585, 1000, 830)),
     "calvoer_s97": ("ia", "https://archive.org/download/10705759bsb/page/n124_w1400.jpg", (40, 600, 1000, 905)),
     "calvoer_tab6": ("ia", "https://archive.org/download/10705759bsb/page/n244_w1400.jpg", None),
+    # Modul 4
+    "calvoer_tab12": ("ia", "https://archive.org/download/10705759bsb/page/n257_w1400.jpg", None),
+    "calvoer_s89": ("ia", "https://archive.org/download/10705759bsb/page/n116_w1400.jpg", (40, 400, 1000, 680)),
     "loehneyss_s233": ("ia", "https://www.e-rara.ch/i3f/v20/4845347/full/1400,/0/default.jpg", (60, 545, 1000, 925)),
 }
 

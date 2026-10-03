@@ -149,6 +149,51 @@
      ]
     }
    ]
+  },
+  {
+   "id": "vorrat",
+   "titel": "Wie lange reicht das Wasser?",
+   "frage": "Calvör über die Teiche als Vorrat, und die Wochentabelle.",
+   "note": "Im Kapitel über die Erfinder sagt Calvör, die Clausthaler Teiche reichten ‚fast ein ganzes Quartal‘ ohne Regen, im Frost gar nicht. Im Kapitel über die Teiche zeigt er, woher man das wusste: Jede Woche wurde auf einer gedruckten Tabelle gemeldet, wie hoch jeder Teich stand, wie viel er gestiegen oder gefallen war, und daraus ausgerechnet, ‚auf wie viele Wochen Wasser in den Teichen zu aller Nothdurft im Vorrath sey‘. Das Bergamt regierte das Wasser wie eine Kasse.",
+   "voices": [
+    {
+     "text": "kuenste",
+     "sec": "mangel",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "teiche",
+     "sec": "bau",
+     "n": [
+      5
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dammbruch",
+   "titel": "Wenn ein Damm bricht",
+   "frage": "1572 nach Häcke, die Notausflut, 1733.",
+   "note": "1572 brechen nach einem Gewitter ‚etliche Teiche‘ und reißen die Brücken in Wildemann weg. Gegen eben diese Gefahr baut man Notausfluten, die das Wasser bei Tauwetter abführen, ‚ohne zu besorgende Gefahr des Dammbruchs‘. 1733 bricht der untere Schalker Teich trotzdem, im Winter, bei anhaltendem Regen. Calvör widmet ihm einen Satz. Ob Menschen starben, sagt keine der beiden Stellen.",
+   "voices": [
+    {
+     "text": "teiche",
+     "sec": "bau",
+     "n": [
+      2,
+      4
+     ]
+    },
+    {
+     "text": "teiche",
+     "sec": "verzeichnis",
+     "n": [
+      2
+     ]
+    }
+   ]
   }
  ]
 }

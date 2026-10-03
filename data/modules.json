@@ -23,16 +23,17 @@
    "kurz": "Wasser unter Tage: die Künste",
    "zk": "Geschichte, Kunstrad, Mangel",
    "warum": "Wie man das Wasser aus den Gruben hob: mit zwölf Pferden im Göpel, mit Lederbällen an einer Kette, mit Stangenkünsten aus Joachimsthal und, seit 1565, mit Kunsträdern am krummen Zapfen, die selbst von Wasser getrieben wurden. Ein Steiger, der dem Herzog zu viel versprach, kam in Haft. Und als die Teiche im Frost versagten, kamen die Erfinder: ein Schwungrad für ‚alle Werke unter der Sonnen‘, ein Perpetuum mobile, die Maschine des Archimedes. Das Bergamt antwortete mit Lachtern und Talern. Nach Calvör (1763), am Seitenbild gelesen, mit Übertragung, drei Tafeln und einem Schnitt durch die Grube."
+  },
+  {
+   "id": "teiche",
+   "datei": "teiche",
+   "side": "wasser",
+   "kurz": "Teiche und Gräben",
+   "zk": "Bau, Verzeichnis, Gräben",
+   "warum": "Auf der Hochfläche um Clausthal gibt es keine großen Flüsse, nur Bäche, die im Sommer und im Frost versiegen. Darum bauten die Bergämter Teiche mit Dämmen aus Rasen, um 1760 allein 32 für Clausthal und 31 für Zellerfeld, maßen jede Woche ihren Vorrat und gruben Gräben über Meilen: den Rehberger Graben siebzehn Jahre lang, den Dammgraben in 75 Wochen für 34 233 Taler. Und zweimal brachen Teiche, 1572 und am zweiten Weihnachtstag 1733. Nach Calvör (1763), am Seitenbild gelesen, mit Übertragung, zwei Tafeln und der Kaskade des Wassers als Grafik."
   }
  ],
  "planned": [
-  {
-   "id": "teiche",
-   "side": "wasser",
-   "kurz": "Teiche und Gräben",
-   "warum": "Wie man Regen speicherte: Teiche mit Erddämmen, Gräben über viele Kilometer, Wasserläufe durch den Berg, gebaut über drei Jahrhunderte. Was sie kosteten, wer sie beschloss, und was in dürren Sommern und strengen Wintern geschah.",
-   "quelle": "H. Calvör, Acta historico-chronologico-mechanica circa metallurgiam in Hercynia superiori (Braunschweig 1763); A. Dumreicher, Gesammtüberblick über die Wasserwirthschaft des nordwestlichen Oberharzes (Clausthal 1868)."
-  },
   {
    "id": "leibniz",
    "side": "besucher",

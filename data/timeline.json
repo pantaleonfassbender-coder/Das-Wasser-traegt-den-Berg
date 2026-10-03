@@ -47,6 +47,14 @@
    "plate": "calvoer_tab6"
   },
   {
+   "d": "24. Juli 1572",
+   "side": "wasser",
+   "titel": "Ein grausam Wasser",
+   "text": "Nach Gewittern schwillt die Innerste in der Nacht an, ‚dazu etliche Teiche auf dem Zellerfelde und Clausthal ausgebrochen‘; das Wasser reißt alle Brücken in Wildemann weg. Sieben Jahre zuvor ist zum ersten Mal ein Teichwärter belegt.",
+   "cite": "#/text/teiche/bau/2",
+   "citeLabel": "Bau [2]"
+  },
+  {
    "d": "1617",
    "side": "bergamt",
    "titel": "Der Bericht vom Bergwerck",
@@ -69,6 +77,32 @@
    "side": "besucher",
    "titel": "Leibniz im Harz",
    "text": "Gottfried Wilhelm Leibniz versucht, die Gruben mit Windmühlen zu entwässern, und scheitert. (Modul geplant.)"
+  },
+  {
+   "d": "1714",
+   "side": "wasser",
+   "titel": "Der Oderteich",
+   "text": "Bei St. Andreasberg wird die Oder in einen Teich gefasst, dessen Damm man aus gestampftem Sand baut, auf eine ‚noch nie versuchte Art‘, weil es dort keine Rasen gibt. Der Rehberger Graben, der das Wasser zur Bergstadt führt, war 1703 fertig geworden.",
+   "cite": "#/text/teiche/verzeichnis/4",
+   "citeLabel": "Verzeichnis [4]",
+   "plate": "calvoer_tab12"
+  },
+  {
+   "d": "21. April 1732 – 1734",
+   "side": "wasser",
+   "titel": "Der Dammgraben",
+   "text": "Nach 75 Jahren Vorschlägen wird das Tal im Sperberhai mit einem Damm gefüllt und ein Graben darübergeführt, der das Wasser vom Bruchberg nach Clausthal bringt: 75 Wochen über drei Sommer, 34 233 Taler, mehr als zweieinhalb Meilen.",
+   "cite": "#/text/teiche/graeben/2",
+   "citeLabel": "Gräben [2]"
+  },
+  {
+   "d": "26. Dezember 1733",
+   "side": "wasser",
+   "titel": "Der Schalker Teich bricht",
+   "text": "Am zweiten Weihnachtstag bricht der untere Schalker Teich bei anhaltendem starkem Regen aus ‚und that großen Schaden‘. Mehr sagt Calvör nicht.",
+   "cite": "#/text/teiche/verzeichnis/2",
+   "citeLabel": "Verzeichnis [2]",
+   "plate": "calvoer_s89"
   },
   {
    "d": "26. Juli 1777",

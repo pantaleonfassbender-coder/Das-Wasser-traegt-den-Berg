@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-labelledby="te-t te-d" font-family="var(--serif)">
+<title id="te-t">Das Wasser fließt von Stadt zu Stadt</title>
+<desc id="te-d">Oben eine Treppe von links oben nach rechts unten: der Bruchberg mit dem Dammgraben, dann Clausthal mit 32 Teichen, Zellerfeld mit 31 Teichen, Wildemann und Lautenthal an der Innerste, die das Wasser von oben erhalten. Abseits St. Andreasberg mit dem Rehberger Graben und dem Oderteich. Unten eine Zeitleiste: 1565 der erste Teichwärter, 1572 brechen etliche Teiche, 1611 bis 1614 der Schwarzenbacher Teich, 1644 der Bärenbrucher Teich, 1686 bis 1703 der Rehberger Graben, 1714 der Oderteich, 1732 bis 1734 der Dammgraben, 1733 bricht der untere Schalker Teich.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Das Wasser fließt von Stadt zu Stadt</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Nach Calvör (1763). Dasselbe Wasser treibt oben die Räder und unten die nächsten; sind die Teiche oben leer, versiegt der Fluss unten auch.</text>
+<defs><marker id="te-a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--wasser)"/></marker></defs>
+<rect x="20" y="90" width="150" height="46" rx="8" fill="var(--panel)" stroke="var(--wasser)" stroke-width="1.8"/>
+<a href="#/text/teiche/graeben/1"><text x="95" y="110" text-anchor="middle" font-size="14.5" font-weight="bold" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Bruchberg</text></a>
+<a href="#/text/teiche/graeben/1"><text x="95" y="127" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Dammgraben 1732–1734</text></a>
+<rect x="190" y="160" width="150" height="46" rx="8" fill="var(--panel)" stroke="var(--wasser)" stroke-width="1.8"/>
+<a href="#/text/teiche/verzeichnis/1"><text x="265" y="180" text-anchor="middle" font-size="14.5" font-weight="bold" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Clausthal</text></a>
+<a href="#/text/teiche/verzeichnis/1"><text x="265" y="197" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">32 Teiche</text></a>
+<path d="M 170 120 C 205 120, 155 176, 188 176" fill="none" stroke="var(--wasser)" stroke-width="3" opacity="0.8" marker-end="url(#te-a)"/>
+<rect x="365" y="230" width="150" height="46" rx="8" fill="var(--panel)" stroke="var(--wasser)" stroke-width="1.8"/>
+<a href="#/text/teiche/verzeichnis/2"><text x="440" y="250" text-anchor="middle" font-size="14.5" font-weight="bold" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Zellerfeld</text></a>
+<a href="#/text/teiche/verzeichnis/2"><text x="440" y="267" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">31 Teiche; der Schalker Teich</text></a>
+<path d="M 340 190 C 375 190, 330 246, 363 246" fill="none" stroke="var(--wasser)" stroke-width="3" opacity="0.8" marker-end="url(#te-a)"/>
+<rect x="535" y="300" width="150" height="46" rx="8" fill="var(--panel)" stroke="var(--wasser)" stroke-width="1.8"/>
+<a href="#/text/teiche/verzeichnis/3"><text x="610" y="320" text-anchor="middle" font-size="14.5" font-weight="bold" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Wildemann</text></a>
+<a href="#/text/teiche/verzeichnis/3"><text x="610" y="337" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Innerste, von oben gespeist</text></a>
+<path d="M 515 260 C 550 260, 500 316, 533 316" fill="none" stroke="var(--wasser)" stroke-width="3" opacity="0.8" marker-end="url(#te-a)"/>
+<rect x="715" y="360" width="150" height="46" rx="8" fill="var(--panel)" stroke="var(--wasser)" stroke-width="1.8"/>
+<a href="#/text/teiche/verzeichnis/3"><text x="790" y="380" text-anchor="middle" font-size="14.5" font-weight="bold" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Lautenthal</text></a>
+<a href="#/text/teiche/verzeichnis/3"><text x="790" y="397" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Aufschlag- und Stollenwasser</text></a>
+<path d="M 685 330 C 720 330, 680 376, 713 376" fill="none" stroke="var(--wasser)" stroke-width="3" opacity="0.8" marker-end="url(#te-a)"/>
+<rect x="560" y="80" width="300" height="70" rx="10" fill="var(--wasser)" opacity="0.08"/>
+<a href="#/text/teiche/verzeichnis/4"><text x="710" y="104" text-anchor="middle" font-size="12.5" font-weight="bold" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">St. Andreasberg, ‚des Wassers am bedürftigsten‘</text></a>
+<a href="#/text/teiche/verzeichnis/4"><text x="710" y="124" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Rehberger Graben 1686–1703, Oderteich 1714</text></a>
+<a href="#/text/teiche/verzeichnis/4"><text x="710" y="141" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Damm aus gestampftem Sand, ‚noch nie versucht‘</text></a>
+<line x1="60" y1="500" x2="860" y2="500" stroke="var(--ink2)" stroke-width="1.5"/>
+<line x1="60" y1="496" x2="60" y2="504" stroke="var(--ink2)"/>
+<text x="60" y="520" text-anchor="middle" font-size="11" fill="var(--ink2)">1560</text>
+<line x1="149" y1="496" x2="149" y2="504" stroke="var(--ink2)"/>
+<text x="149" y="520" text-anchor="middle" font-size="11" fill="var(--ink2)">1580</text>
+<line x1="238" y1="496" x2="238" y2="504" stroke="var(--ink2)"/>
+<text x="238" y="520" text-anchor="middle" font-size="11" fill="var(--ink2)">1600</text>
+<line x1="327" y1="496" x2="327" y2="504" stroke="var(--ink2)"/>
+<text x="327" y="520" text-anchor="middle" font-size="11" fill="var(--ink2)">1620</text>
+<line x1="416" y1="496" x2="416" y2="504" stroke="var(--ink2)"/>
+<text x="416" y="520" text-anchor="middle" font-size="11" fill="var(--ink2)">1640</text>
+<line x1="504" y1="496" x2="504" y2="504" stroke="var(--ink2)"/>
+<text x="504" y="520" text-anchor="middle" font-size="11" fill="var(--ink2)">1660</text>
+<line x1="593" y1="496" x2="593" y2="504" stroke="var(--ink2)"/>
+<text x="593" y="520" text-anchor="middle" font-size="11" fill="var(--ink2)">1680</text>
+<line x1="682" y1="496" x2="682" y2="504" stroke="var(--ink2)"/>
+<text x="682" y="520" text-anchor="middle" font-size="11" fill="var(--ink2)">1700</text>
+<line x1="771" y1="496" x2="771" y2="504" stroke="var(--ink2)"/>
+<text x="771" y="520" text-anchor="middle" font-size="11" fill="var(--ink2)">1720</text>
+<line x1="860" y1="496" x2="860" y2="504" stroke="var(--ink2)"/>
+<text x="860" y="520" text-anchor="middle" font-size="11" fill="var(--ink2)">1740</text>
+<circle cx="82" cy="500" r="6" fill="var(--wasser)"/>
+<line x1="82" y1="492" x2="82" y2="480" stroke="var(--wasser)" stroke-width="1"/>
+<a href="#/text/teiche/bau/1"><text x="82.22222222222223" y="474" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">erster Teichwärter</text></a>
+<circle cx="113" cy="500" r="6" fill="var(--red)"/>
+<line x1="113" y1="508" x2="113" y2="530" stroke="var(--red)" stroke-width="1"/>
+<a href="#/text/teiche/bau/2"><text x="113.33333333333334" y="544" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Teiche brechen</text></a>
+<rect x="287" y="495" width="13" height="10" fill="var(--wasser)" opacity="0.7"/>
+<line x1="293" y1="492" x2="293" y2="480" stroke="var(--wasser)" stroke-width="1"/>
+<a href="#/text/teiche/verzeichnis/1"><text x="293.3333333333333" y="474" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Schwarzenbacher Teich</text></a>
+<circle cx="433" cy="500" r="6" fill="var(--wasser)"/>
+<line x1="433" y1="508" x2="433" y2="530" stroke="var(--wasser)" stroke-width="1"/>
+<a href="#/text/teiche/verzeichnis/1"><text x="433.3333333333333" y="544" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Bärenbrucher Teich</text></a>
+<rect x="620" y="495" width="76" height="10" fill="var(--wasser)" opacity="0.7"/>
+<line x1="658" y1="492" x2="658" y2="480" stroke="var(--wasser)" stroke-width="1"/>
+<a href="#/text/teiche/verzeichnis/4"><text x="657.7777777777778" y="474" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Rehberger Graben</text></a>
+<circle cx="744" cy="500" r="6" fill="var(--wasser)"/>
+<line x1="744" y1="508" x2="744" y2="530" stroke="var(--wasser)" stroke-width="1"/>
+<a href="#/text/teiche/verzeichnis/4"><text x="744.4444444444445" y="544" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Oderteich</text></a>
+<rect x="824" y="495" width="9" height="10" fill="var(--wasser)" opacity="0.7"/>
+<line x1="829" y1="492" x2="829" y2="480" stroke="var(--wasser)" stroke-width="1"/>
+<a href="#/text/teiche/graeben/1"><text x="828.8888888888889" y="474" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Dammgraben</text></a>
+<circle cx="829" cy="500" r="6" fill="var(--red)"/>
+<line x1="829" y1="508" x2="829" y2="552" stroke="var(--red)" stroke-width="1"/>
+<a href="#/text/teiche/verzeichnis/2"><text x="828.8888888888889" y="566" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Schalker Teich bricht</text></a>
+<text x="60" y="610" font-size="12" fill="var(--ink2)">Rot: Dammbrüche, die Calvör überliefert (1572 nach Häcke; 1733 ‚that großen Schaden‘). Die Jahre der übrigen Teiche nennt er nicht.</text>
+</svg>
