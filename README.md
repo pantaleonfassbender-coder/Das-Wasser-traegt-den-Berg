@@ -2,7 +2,7 @@
 
 Ein Quellenapparat zum Oberharzer Bergbau von den ersten Bergfreiheiten um 1520 bis zum Übergang an Preußen 1866: Bergamt und Landesherr, Kunsträder, Teiche und Gräben, Leibniz' Windmühlen, der Tiefe Georg-Stollen, Wald und Hütten, die Krankheiten der Bergleute. Gemeinfreie Drucke, das Original neben einer neuhochdeutschen Übertragung, eine Zeitleiste mit Verweisen in die Texte und eine Liste dessen, was noch kommt.
 
-These, an den Texten zu prüfen: Nicht das Erz trug den Oberharzer Bergbau, sondern das Wasser. Ganze Gangzüge kamen zum Erliegen, „nicht sowohl der Mangel der Erze“ wegen als wegen „der zu großen Last der Grundwasser“ (C. F. von Reden, 1777).
+These, an den Texten zu prüfen: Nicht das Erz trug den Oberharzer Bergbau, sondern das Wasser. Ganze Gangzüge mussten aufgegeben werden, und dazu gab „nicht sowohl der Mangel der Erze“ als „die zu große Last der Grundwasser“ den Ausschlag (Rede des Berghauptmanns C. F. von Reden zum Beginn des Tiefen Georg-Stollens, 1777, S. 4).
 
 Stufe 1 (in Arbeit). Geplante Module in der Reihenfolge der Arbeit: siehe `data/modules.json`.
 
