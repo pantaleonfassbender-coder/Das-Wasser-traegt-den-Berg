@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-labelledby="ar-t ar-d" font-family="var(--serif)">
+<title id="ar-t">Das Jahr des Bergarztes</title>
+<desc id="ar-d">Links ein Jahreskreis von Januar oben im Uhrzeigersinn. Schnee liegt von November bis Mai; Im Frühjahr Husten, Rheuma und der Ostwind vom Brocken. Erst im Juni Wildkräuter, im Juli Möhren, dann Erdbeeren, Kirschen, Heidelbeeren und Preiselbeeren; die Heidelbeerzeit gilt als die gesündeste. Die Herbstkrankheiten sind milder als die des Frühlings. Rechts eine Spalte: was die Arbeit dem Körper tat. Pochknaben mit Krämpfen; Husten und Schwindsucht durch die Beschäftigung; die Hüttenkatze, eine Bleivergiftung, die die Hände lähmt; Fallen, Stoßen, Quetschen unter Tage; ein Bergmann, auf den ein Stück Berg stürzte; die Frauen, die Lasten tragen und Fehlgeburten haben.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Das Jahr des Bergarztes</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Nach Lentin (1789–1808). Links, was Wetter und Essen der Stadt taten; rechts, was die Arbeit dem Körper tat.</text>
+<path d="M 208.8 260.0 A 140 140 0 0 1 330.0 190.0 L 330.0 216.0 A 114 114 0 0 0 231.3 273.0 Z" fill="var(--ink2)" opacity="0.25"/>
+<path d="M 330.0 190.0 A 140 140 0 0 1 423.7 434.0 L 406.3 414.7 A 114 114 0 0 0 330.0 216.0 Z" fill="var(--ink2)" opacity="0.25"/>
+<path d="M 400.0 451.2 A 140 140 0 0 1 190.0 330.0 L 216.0 330.0 A 114 114 0 0 0 387.0 428.7 Z" fill="var(--wald)" opacity="0.45"/>
+<path d="M 434.6 289.9 A 112 112 0 0 1 370.1 434.6 L 361.5 412.2 A 88 88 0 0 0 412.2 298.5 Z" fill="var(--red)" opacity="0.35"/>
+<path d="M 312.5 440.6 A 112 112 0 0 1 225.4 370.1 L 247.8 361.5 A 88 88 0 0 0 316.2 416.9 Z" fill="var(--wald)" opacity="0.65"/>
+<circle cx="330" cy="330" r="140" fill="none" stroke="var(--ink2)" stroke-width="1"/>
+<text x="370" y="185" text-anchor="middle" font-size="11" fill="var(--ink2)">Jan</text>
+<text x="439" y="225" text-anchor="middle" font-size="11" fill="var(--ink2)">Feb</text>
+<text x="479" y="294" text-anchor="middle" font-size="11" fill="var(--ink2)">Mär</text>
+<text x="479" y="374" text-anchor="middle" font-size="11" fill="var(--ink2)">Apr</text>
+<text x="439" y="443" text-anchor="middle" font-size="11" fill="var(--ink2)">Mai</text>
+<text x="370" y="483" text-anchor="middle" font-size="11" fill="var(--ink2)">Jun</text>
+<text x="290" y="483" text-anchor="middle" font-size="11" fill="var(--ink2)">Jul</text>
+<text x="221" y="443" text-anchor="middle" font-size="11" fill="var(--ink2)">Aug</text>
+<text x="181" y="374" text-anchor="middle" font-size="11" fill="var(--ink2)">Sep</text>
+<text x="181" y="294" text-anchor="middle" font-size="11" fill="var(--ink2)">Okt</text>
+<text x="221" y="225" text-anchor="middle" font-size="11" fill="var(--ink2)">Nov</text>
+<text x="290" y="185" text-anchor="middle" font-size="11" fill="var(--ink2)">Dez</text>
+<a href="#/text/arzt/stadt/1"><text x="330" y="322" text-anchor="middle" font-size="14" font-weight="bold" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Clausthal</text></a>
+<a href="#/text/arzt/stadt/6"><text x="330" y="340" text-anchor="middle" font-size="11" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">rund 7000–8000 Einwohner</text></a>
+<a href="#/text/arzt/stadt/6"><text x="330" y="356" text-anchor="middle" font-size="11" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">700–800 Frauen mehr</text></a>
+<a href="#/text/arzt/stadt/2"><text x="16" y="150" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--ink2)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Schnee bis April und Mai</text></a>
+<a href="#/text/arzt/stadt/1"><text x="16" y="300" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Dürre 1781:</text></a>
+<a href="#/text/arzt/stadt/1"><text x="16" y="316" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">die Brunnen versiegen</text></a>
+<a href="#/text/arzt/stadt/2"><text x="16" y="470" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Herbst: Krankheiten</text></a>
+<a href="#/text/arzt/stadt/2"><text x="16" y="486" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚gelinder‘</text></a>
+<a href="#/text/arzt/stadt/2"><text x="496" y="250" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Frühjahr: Husten,</text></a>
+<a href="#/text/arzt/stadt/3"><text x="496" y="266" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Rheuma, Ostwind</text></a>
+<a href="#/text/arzt/stadt/3"><text x="496" y="282" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">vom Brocken</text></a>
+<a href="#/text/arzt/stadt/2"><text x="490" y="420" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--wald)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Juni: Wildkräuter,</text></a>
+<a href="#/text/arzt/stadt/2"><text x="490" y="436" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--wald)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Juli: Möhren</text></a>
+<a href="#/text/arzt/stadt/4"><text x="330" y="514" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--wald)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Heidelbeerzeit, ‚die gesundeste im Jahre‘</text></a>
+<rect x="654" y="76" width="236" height="520" rx="10" fill="var(--panel)" stroke="var(--line)" stroke-width="1.2"/>
+<text x="668" y="102" font-size="14" font-weight="bold" fill="var(--ink)">Was die Arbeit dem Körper tat</text>
+<a href="#/text/arzt/stadt/6"><text x="668" y="140" text-anchor="start" font-size="12.5" font-weight="bold" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Pochknaben</text></a>
+<a href="#/text/arzt/stadt/6"><text x="680" y="158" text-anchor="start" font-size="12" font-weight="normal" fill="var(--bergleute)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Krämpfe, ‚Würmer‘, Ausschlag</text></a>
+<a href="#/text/arzt/stadt/6"><text x="668" y="188" text-anchor="start" font-size="12.5" font-weight="bold" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚Die Beschäftigung‘</text></a>
+<a href="#/text/arzt/stadt/6"><text x="680" y="206" text-anchor="start" font-size="12" font-weight="normal" fill="var(--bergleute)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Husten, Tuberkel, Schwindsucht</text></a>
+<a href="#/text/arzt/arbeit/1"><text x="668" y="236" text-anchor="start" font-size="12.5" font-weight="bold" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Hüttenleute</text></a>
+<a href="#/text/arzt/arbeit/1"><text x="680" y="254" text-anchor="start" font-size="12" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚Hüttenkatze‘: Blei, Koliken</text></a>
+<a href="#/text/arzt/arbeit/3"><text x="680" y="276" text-anchor="start" font-size="12" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Lähmung der Hände, Muskelschwund</text></a>
+<a href="#/text/arzt/arbeit/3"><text x="680" y="298" text-anchor="start" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Kur in Gittelde, zurück auf die Hütte</text></a>
+<a href="#/text/arzt/arbeit/5"><text x="668" y="328" text-anchor="start" font-size="12.5" font-weight="bold" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Bergleute</text></a>
+<a href="#/text/arzt/arbeit/5"><text x="680" y="346" text-anchor="start" font-size="12" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚Fallen, Stoßen, Quetschen‘</text></a>
+<a href="#/text/arzt/arbeit/4"><text x="680" y="368" text-anchor="start" font-size="12" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚ein großes Stück Berg‘: tot</text></a>
+<a href="#/text/arzt/arbeit/6"><text x="680" y="390" text-anchor="start" font-size="12" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Quecksilbermittel: tot</text></a>
+<a href="#/text/arzt/stadt/5"><text x="668" y="420" text-anchor="start" font-size="12.5" font-weight="bold" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Frauen</text></a>
+<a href="#/text/arzt/stadt/5"><text x="680" y="438" text-anchor="start" font-size="12" font-weight="normal" fill="var(--bergleute)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Lasten tragen, Fehlgeburten</text></a>
+<a href="#/text/arzt/arbeit/6"><text x="668" y="468" text-anchor="start" font-size="12.5" font-weight="bold" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Alle Kranken</text></a>
+<a href="#/text/arzt/arbeit/6"><text x="680" y="486" text-anchor="start" font-size="12" font-weight="normal" fill="var(--wald)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚freyen Arzneygebrauch‘</text></a>
+<text x="668" y="582" font-size="10.5" fill="var(--ink2)">Zahlen der Verunglückten: keine.</text>
+<text x="16" y="626" font-size="11.5" fill="var(--ink2)">Grau: Schnee; grün: frische Nahrung, dunkler die Heidelbeerzeit; rot: Frühjahrskrankheiten. Monatsgrenzen nach Lentins Worten, ungefähr.</text>
+</svg>

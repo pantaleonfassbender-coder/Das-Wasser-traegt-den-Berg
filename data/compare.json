@@ -350,6 +350,67 @@
      ]
     }
    ]
+  },
+  {
+   "id": "gefahr",
+   "titel": "Die Gefahr im Gebet und im Krankenbuch",
+   "frage": "Dahme 1777, Lentin 1789–1808.",
+   "note": "In der Predigt zum Stollen von 1777 erscheint die Gefahr nur als Bitte: ‚ohne Unglücksfälle; ja, Vater, bewahre das Leben‘. Beim Bergarzt erscheint sie als Fall: ein junger Bergmann, auf den ‚ein großes Stück Berg‘ stürzte und der an der Eiterung starb, ‚Fallen, Stoßen, Quetschen mehr als anderwärts‘, die Bleilähmung der Hüttenleute. Keine der beiden Quellen nennt Zahlen.",
+   "voices": [
+    {
+     "text": "stollen",
+     "sec": "predigt",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "arzt",
+     "sec": "arbeit",
+     "n": [
+      3,
+      4,
+      5
+     ]
+    }
+   ]
+  },
+  {
+   "id": "brot",
+   "titel": "Ein gewisses Brot",
+   "frage": "Reden, Dahme und Lentin über das Auskommen.",
+   "note": "Reden will 1777 ‚manchem, wegen seines Unterhalts besorgten, ein gewisses Brodt‘ verschaffen; Dahme bittet tags darauf für die Armenkasse und für die ‚verschämten‘ Armen. Lentin zeigt, was das heißt: frisches Gemüse erst im Juni, Fleisch ‚nicht täglich‘, ‚Milch ist schon nicht für alle‘, und Frauen, die Obst und Heu auf dem Rücken ins Gebirge tragen. Er nennt aber auch, was die Kranken als Recht hatten: freie Arznei.",
+   "voices": [
+    {
+     "text": "stollen",
+     "sec": "rede",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "stollen",
+     "sec": "predigt",
+     "n": [
+      4
+     ]
+    },
+    {
+     "text": "arzt",
+     "sec": "stadt",
+     "n": [
+      2,
+      5
+     ]
+    },
+    {
+     "text": "arzt",
+     "sec": "arbeit",
+     "n": [
+      6
+     ]
+    }
+   ]
   }
  ]
 }

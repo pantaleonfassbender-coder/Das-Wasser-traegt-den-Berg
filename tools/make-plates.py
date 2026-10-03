@@ -51,6 +51,11 @@ PLATES = {
     "reden_s10": ("ia", "https://archive.org/download/10293262bsb/page/n21_w1400.jpg", None),
     "lasius_profil": ("ia", "https://archive.org/download/10806207bsb/page/n70_w1400.jpg", (20, 50, 990, 940)),
     "lasius_s51": ("ia", "https://archive.org/download/10806207bsb/page/n84_w1400.jpg", (0, 440, 1000, 1000)),
+    # Modul 8 (Lentin 1774 IA 11269090bsb; Beyträge 1789 IA 11107337bsb, Blatt = S.+9)
+    "lentin1774_titel": ("ia", "https://archive.org/download/11269090bsb/page/n4_w1400.jpg", None),
+    "lentin1789_titel": ("ia", "https://archive.org/download/11107337bsb/page/n4_w1400.jpg", None),
+    "lentin1789_s13": ("ia", "https://archive.org/download/11107337bsb/page/n22_w1400.jpg", (0, 0, 1000, 1000)),
+    "lentin1789_s95": ("ia", "https://archive.org/download/11107337bsb/page/n104_w1400.jpg", (40, 540, 1000, 900)),
 }
 
 

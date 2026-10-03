@@ -149,6 +149,15 @@
    "plate": "calvoer_s89"
   },
   {
+   "d": "14. Juli 1774",
+   "side": "bergleute",
+   "titel": "Ein Bergarzt in Clausthal",
+   "text": "Lebrecht Friedrich Benjamin Lentin unterschreibt als ‚Bergmedicus und Stadtphysicus‘ in Clausthal die Vorrede seines ersten Buchs. In seinen späteren Schriften beschreibt er die Krankheiten der Stadt, der Berg- und Hüttenleute.",
+   "cite": "#/text/arzt/arbeit/1",
+   "citeLabel": "Arbeit [1]",
+   "plate": "lentin1774_titel"
+  },
+  {
    "d": "26. Juli 1777",
    "side": "wasser",
    "titel": "Der Tiefe Georg-Stollen",
@@ -156,6 +165,14 @@
    "cite": "#/text/stollen/rede/5",
    "citeLabel": "Rede [5]",
    "plate": "reden_titel"
+  },
+  {
+   "d": "Sommer 1781",
+   "side": "wasser",
+   "titel": "Die Brunnen versiegen",
+   "text": "In einer außerordentlichen Dürre geben in Clausthal die meisten, in Zellerfeld fast alle Brunnen kein Wasser mehr. Ende 1781 endet nach Lentin eine Reihe gesunder Jahre.",
+   "cite": "#/text/arzt/stadt/1",
+   "citeLabel": "Stadt [1]"
   },
   {
    "d": "2. Oktober 1800",
