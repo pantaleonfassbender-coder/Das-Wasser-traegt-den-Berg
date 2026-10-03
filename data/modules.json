@@ -1,0 +1,76 @@
+{
+ "shipped": [],
+ "planned": [
+  {
+   "id": "freiheit",
+   "side": "bergamt",
+   "kurz": "Die Bergfreiheiten, 1520–1550",
+   "warum": "Wie der Oberharz besiedelt wurde: Die Landesherren versprachen Bergleuten aus dem Erzgebirge Freiheiten, Holz, Gericht und Steuerfreiheit, wenn sie kamen und Gruben öffneten. Was die Freiheitsbriefe gewährten und was sie dafür verlangten.",
+   "quelle": "H. Calvör, Historische Nachricht von der Unter- und gesamten Ober-Harzischen Bergwerke (Braunschweig 1765) (Bergfreiheiten, Auswahl)."
+  },
+  {
+   "id": "bergamt",
+   "side": "bergamt",
+   "kurz": "Das Bergamt: Löhneyß' Bericht vom Bergwerck, 1617",
+   "warum": "Ein Berghauptmann beschreibt, wie man ein Bergwerk ‚bawen und in guten Wolstande bringen sol‘: Ämter vom Berghauptmann bis zum Steiger, Schichten und Löhne, Zehnt und Zubuße, Recht und Strafen. Die Ordnung, die das Spiel als Rolle übernimmt.",
+   "quelle": "G. E. Löhneyß, Bericht vom Bergwerck (Zellerfeld 1617; benutzt in der Ausgabe 1660)."
+  },
+  {
+   "id": "kuenste",
+   "side": "wasser",
+   "kurz": "Wasser unter Tage: die Künste",
+   "warum": "Wie man Wasser aus hundert Lachtern Tiefe hob: Kunsträder, Feldgestänge, Pumpensätze, und was geschah, wenn das Aufschlagwasser ausblieb. Calvörs Beschreibung der Maschinen mit seinen Kupfertafeln.",
+   "quelle": "H. Calvör, Acta historico-chronologico-mechanica circa metallurgiam in Hercynia superiori (Braunschweig 1763) (Auswahl)."
+  },
+  {
+   "id": "teiche",
+   "side": "wasser",
+   "kurz": "Teiche und Gräben",
+   "warum": "Wie man Regen speicherte: Teiche mit Erddämmen, Gräben über viele Kilometer, Wasserläufe durch den Berg, gebaut über drei Jahrhunderte. Was sie kosteten, wer sie beschloss, und was in dürren Sommern und strengen Wintern geschah.",
+   "quelle": "H. Calvör, Acta historico-chronologico-mechanica circa metallurgiam in Hercynia superiori (Braunschweig 1763); A. Dumreicher, Gesammtüberblick über die Wasserwirthschaft des nordwestlichen Oberharzes (Clausthal 1868)."
+  },
+  {
+   "id": "leibniz",
+   "side": "besucher",
+   "kurz": "Leibniz im Harz, 1680–1686",
+   "warum": "Gottfried Wilhelm Leibniz wollte die Gruben mit Windmühlen entwässern, schloss dafür einen Vertrag mit dem Bergamt und scheiterte. Seine eigenen Schriften neben Calvörs Bericht und dem Urteil des Bergmanns Trebra von 1789: ‚misslungene Versuche‘.",
+   "quelle": "E. Gerland (Hg.), Leibnizens nachgelassene Schriften physikalischen, mechanischen und technischen Inhalts (Leipzig 1906); H. Calvör, Acta historico-chronologico-mechanica circa metallurgiam in Hercynia superiori (Braunschweig 1763); F. W. H. von Trebra, Des Hofraths von Leibnitz misslungene Versuche an den Bergwerksmaschinen des Harzes, in: Bergbaukunde I (Leipzig 1789)."
+  },
+  {
+   "id": "holz",
+   "side": "wald",
+   "kurz": "Holz und Hütten",
+   "warum": "Jede Grube brauchte Holz für Stempel und Räder, jede Hütte Holzkohle für das Schmelzen. Wie der Oberharz seinen Wald verbrauchte, und was Bergamt und Forst dagegen taten.",
+   "quelle": "G. E. Löhneyß, Bericht vom Bergwerck (Zellerfeld 1617; benutzt in der Ausgabe 1660); H. Calvör, Acta historico-chronologico-mechanica circa metallurgiam in Hercynia superiori (Braunschweig 1763) (Auswahl)."
+  },
+  {
+   "id": "stollen",
+   "side": "wasser",
+   "kurz": "Der Tiefe Georg-Stollen, 1777–1799",
+   "warum": "Am 26. Juli 1777 wurde bei Grund feierlich mit einem Stollen begonnen, der das Wasser der Clausthaler Gruben in freiem Gefälle ableiten sollte. Die Rede des Berghauptmanns von Reden und die Predigt dieses Tages.",
+   "quelle": "C. F. von Reden, Rede bey dem feyerlichen Anfange des Tiefen Georg-Stollen-Baues am 26. Julius 1777 (1777)."
+  },
+  {
+   "id": "arzt",
+   "side": "bergleute",
+   "kurz": "Der Bergarzt: Krankheiten der Bergleute, 1774",
+   "warum": "Der Clausthaler Bergarzt Lebrecht Lentin beschreibt, woran die Bergleute erkrankten: Staub, Nässe, Wetter, Arbeit von Kindheit an. Eine der wenigen Quellen, die vom Leben unter Tage aus der Nähe berichtet, wenn auch von oben.",
+   "quelle": "L. F. B. Lentin, Beobachtungen einiger Krankheiten (1774)."
+  },
+  {
+   "id": "heine",
+   "side": "besucher",
+   "kurz": "Heine fährt ein, 1824",
+   "warum": "Ein Student aus Göttingen fährt in die Gruben ‚Dorothea‘ und ‚Carolina‘ ein und beschreibt die Fahrten, die Lampen, die Bergleute und ihren Gruß ‚Glück auf‘. Was der Besucher sah und was er nicht sah.",
+   "quelle": "H. Heine, Die Harzreise (1826), in einer gemeinfreien Ausgabe."
+  },
+  {
+   "id": "system",
+   "side": "wasser",
+   "kurz": "Das System um 1866",
+   "warum": "Wie das Wassersystem des Oberharzes am Ende dieses Apparats aussah: rund 190 Wasserräder, Teiche, Gräben, Wasserläufe, beschrieben zwei Jahre nach dem Übergang an Preußen. Dazu die Fahrkunst (1833) und das Drahtseil (1834), die in Clausthal erfunden wurden, soweit gemeinfreie Quellen sie beschreiben.",
+   "quelle": "A. Dumreicher, Gesammtüberblick über die Wasserwirthschaft des nordwestlichen Oberharzes (Clausthal 1868); weitere Quellen zu prüfen."
+  }
+ ],
+ "missing": []
+}

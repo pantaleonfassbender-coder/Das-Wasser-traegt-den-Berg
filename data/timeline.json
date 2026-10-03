@@ -1,0 +1,41 @@
+{
+ "lede": "Von den ersten Bergfreiheiten um 1520 bis zum Übergang des Oberharzes an Preußen 1866. Die Stationen verweisen auf die Stellen im Apparat; wo noch kein Text abgedruckt ist, folgen sie der neueren Literatur und sagen es.",
+ "stations": [
+  {
+   "d": "1521",
+   "side": "bergamt",
+   "titel": "Die erste Bergfreiheit",
+   "text": "Die Grafen von Hohnstein erlassen für St. Andreasberg eine Bergfreiheit, nachdem reiche Silbererze gefunden wurden; weitere Freiheitsbriefe folgen für Zellerfeld, Clausthal und die anderen Bergstädte. (Nach der neueren Literatur; Modul geplant.)"
+  },
+  {
+   "d": "1617",
+   "side": "bergamt",
+   "titel": "Der Bericht vom Bergwerck",
+   "text": "Der Berghauptmann Georg Engelhard Löhneyß lässt in Zellerfeld seinen Bericht vom Bergwerck drucken: wie man Bergwerke baut, verwaltet und richtet. (Modul geplant.)"
+  },
+  {
+   "d": "1680–1686",
+   "side": "besucher",
+   "titel": "Leibniz im Harz",
+   "text": "Gottfried Wilhelm Leibniz versucht, die Gruben mit Windmühlen zu entwässern, und scheitert. (Modul geplant.)"
+  },
+  {
+   "d": "26. Juli 1777",
+   "side": "wasser",
+   "titel": "Der Tiefe Georg-Stollen",
+   "text": "Bei Grund beginnt man feierlich einen Stollen, der das Wasser der Clausthaler Gruben ableiten soll; er wird 1799 fertig. (Nach der neueren Literatur; Modul geplant.)"
+  },
+  {
+   "d": "1824",
+   "side": "besucher",
+   "titel": "Heine fährt ein",
+   "text": "Heinrich Heine besucht die Gruben ‚Dorothea‘ und ‚Carolina‘ bei Clausthal; seine Harzreise erscheint 1826. (Modul geplant.)"
+  },
+  {
+   "d": "1866",
+   "side": "bergamt",
+   "titel": "Preußen",
+   "text": "Mit dem Königreich Hannover kommt der Oberharz an Preußen. Hier endet dieser Apparat. (Nach der neueren Literatur.)"
+  }
+ ]
+}
