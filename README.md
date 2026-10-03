@@ -8,7 +8,7 @@ Stufe 1 (in Arbeit). Geplante Module in der Reihenfolge der Arbeit: siehe `data/
 
 Hauptquellen: H. Calvör, *Acta historico-chronologico-mechanica circa metallurgiam in Hercynia superiori* (1763) und *Historische Nachricht von der Unter- und gesamten Ober-Harzischen Bergwerke* (1765); G. E. Löhneyß, *Bericht vom Bergwerck* (1617).
 
-Das Begleitspiel *Die Last der Grundwasser* (in Vorbereitung, https://github.com/pantaleonfassbender-coder/Die-Last-der-Grundwasser) nimmt seinen Titel von Reden.
+Das Begleitspiel *Die Last der Grundwasser* (in Vorbereitung, https://die-last-der-grundwasser.netlify.app/) nimmt seinen Titel von Reden.
 
 ## Prüfen
 
