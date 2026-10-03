@@ -103,6 +103,52 @@
      ]
     }
    ]
+  },
+  {
+   "id": "theorie",
+   "titel": "Praxis gegen Theorie",
+   "frage": "Löhneyß 1617 über die Gelehrten, das Bergamt 1635 über einen Erfinder.",
+   "note": "Löhneyß schreibt 1617 gegen die Bergbücher der Gelehrten, die ‚allein ad Theoricam gesehen‘ und die Sachen ‚im Werck selbst nicht erfahren‘ haben. Achtzehn Jahre später lehnt das Bergamt Wolfgang Cörners Schwungrad ab, nicht mit einer Theorie, sondern mit einer Rechnung: ein Schacht von 114 Lachtern, acht Kunsträder, eine Kunst, die man abreißen müsste, 1000 Taler und ein Jahr. Das Amt prüft eine Maschine an der Grube, nicht am Gedanken. Dieselbe Haltung wird Leibniz begegnen.",
+   "voices": [
+    {
+     "text": "bergamt",
+     "sec": "vorrede",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "kuenste",
+     "sec": "mangel",
+     "n": [
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "versprechen",
+   "titel": "Wer zu viel verspricht",
+   "frage": "Der Steiger von 1535 und die Erfinder des 17. Jahrhunderts.",
+   "note": "1535 vermisst sich ein Steiger, die Grube trocken zu halten, ‚wenn auch der ganze Berg voll Wasser wäre‘; als seine Kunst nach einer Stunde versagt, kommt er acht Tage in Haft. Hundert Jahre später versprechen Fremde Maschinen, die ‚alle Werke unter der Sonnen‘ treiben, Gruben von 500 Lachtern trocken halten oder einen Mann so stark machen wie tausend. Sie werden nicht bestraft, sondern befragt und nicht zur Probe gelassen. Aus der Strafe des Herzogs ist die Prüfung des Amtes geworden.",
+   "voices": [
+    {
+     "text": "kuenste",
+     "sec": "geschichte",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "kuenste",
+     "sec": "mangel",
+     "n": [
+      2,
+      4,
+      5
+     ]
+    }
+   ]
   }
  ]
 }

@@ -15,16 +15,17 @@
    "kurz": "Das Bergamt: Löhneyß' Bericht vom Bergwerck, 1617",
    "zk": "Vorrede, Ämter, Stollen",
    "warum": "Ein Berghauptmann schreibt gegen die Gelehrten, die ‚allein ad Theoricam‘ gesehen haben, und druckt die Ordnung, nach der ein Bergwerk regiert wird: vom Berghauptmann ‚an des Landeßfürsten statt‘ bis zu den Ältesten der Knappschaft, mit einem Eid, der einen ‚mit allen Teuffeln verbant‘. Dazu das Recht des Wassers: Wer einer Grube mit seinem Erbstollen ‚das Wasser benimpt‘, erhält das Neunte ihres Erzes. Und ein Artikel, der Juden aus den Bergstädten fernhält. Nach der Erstausgabe von 1617, am Seitenbild gelesen, mit Übertragung, drei Tafeln und einem Schaubild der Ämter."
+  },
+  {
+   "id": "kuenste",
+   "datei": "kuenste",
+   "side": "wasser",
+   "kurz": "Wasser unter Tage: die Künste",
+   "zk": "Geschichte, Kunstrad, Mangel",
+   "warum": "Wie man das Wasser aus den Gruben hob: mit zwölf Pferden im Göpel, mit Lederbällen an einer Kette, mit Stangenkünsten aus Joachimsthal und, seit 1565, mit Kunsträdern am krummen Zapfen, die selbst von Wasser getrieben wurden. Ein Steiger, der dem Herzog zu viel versprach, kam in Haft. Und als die Teiche im Frost versagten, kamen die Erfinder: ein Schwungrad für ‚alle Werke unter der Sonnen‘, ein Perpetuum mobile, die Maschine des Archimedes. Das Bergamt antwortete mit Lachtern und Talern. Nach Calvör (1763), am Seitenbild gelesen, mit Übertragung, drei Tafeln und einem Schnitt durch die Grube."
   }
  ],
  "planned": [
-  {
-   "id": "kuenste",
-   "side": "wasser",
-   "kurz": "Wasser unter Tage: die Künste",
-   "warum": "Wie man Wasser aus hundert Lachtern Tiefe hob: Kunsträder, Feldgestänge, Pumpensätze, und was geschah, wenn das Aufschlagwasser ausblieb. Calvörs Beschreibung der Maschinen mit seinen Kupfertafeln.",
-   "quelle": "H. Calvör, Acta historico-chronologico-mechanica circa metallurgiam in Hercynia superiori (Braunschweig 1763) (Auswahl)."
-  },
   {
    "id": "teiche",
    "side": "wasser",

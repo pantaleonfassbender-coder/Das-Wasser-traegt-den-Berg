@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-labelledby="ku-t ku-d" font-family="var(--serif)">
+<title id="ku-t">Das Wasser hebt das Wasser</title>
+<desc id="ku-d">Ein Schnitt durch Berg und Grube. Links oben ein Teich hinter einem Damm; ein Graben führt das Aufschlagwasser auf ein Kunstrad. Vom Rad läuft ein Feldgestänge über Tage zum Schacht und bewegt dort Pumpensätze übereinander, die das Grubenwasser Satz für Satz bis auf den Stollen heben. Der Stollen führt das Wasser zum Tal hinaus, zusammen mit dem Wasser, das das Rad getrieben hat. Darunter der Sumpf. Fällt der Teich trocken, steht alles still.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Das Wasser hebt das Wasser</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Schema nach Calvör (1763), nicht maßstäblich. Fällt der Teich trocken, steht die Kunst still, und die Grube säuft ab.</text>
+<path d="M 0 170 L 300 170 L 360 150 L 900 150 L 900 650 L 0 650 Z" fill="var(--ink2)" opacity="0.10"/>
+<path d="M 0 170 L 300 170 L 360 150 L 900 150" fill="none" stroke="var(--ink2)" stroke-width="1.5"/>
+<path d="M 30 170 Q 110 215 200 170 Z" fill="var(--wasser)" opacity="0.55"/>
+<path d="M 200 170 L 215 120 L 230 170 Z" fill="var(--ink2)" opacity="0.45"/>
+<a href="#/text/kuenste/mangel/1"><text x="110" y="112" text-anchor="middle" font-size="12.5" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Der Teich: ein Quartal ohne Regen</text></a>
+<a href="#/text/kuenste/mangel/1"><text x="110" y="130" text-anchor="middle" font-size="11.5" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">im Frost gar nicht</text></a>
+<path d="M 215 168 L 330 175 L 400 205" fill="none" stroke="var(--wasser)" stroke-width="5" stroke-linecap="round"/>
+<a href="#/text/kuenste/kunstrad/1"><text x="290" y="160" text-anchor="middle" font-size="11.5" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Graben: Aufschlagwasser</text></a>
+<rect x="358" y="183" width="144" height="144" fill="var(--panel)" stroke="var(--ink2)" stroke-width="1.2"/>
+<circle cx="430" cy="255" r="52" fill="none" stroke="var(--bergamt)" stroke-width="3"/>
+<line x1="430" y1="255" x2="482.0" y2="255.0" stroke="var(--bergamt)" stroke-width="1.6"/>
+<line x1="430" y1="255" x2="466.8" y2="291.8" stroke="var(--bergamt)" stroke-width="1.6"/>
+<line x1="430" y1="255" x2="430.0" y2="307.0" stroke="var(--bergamt)" stroke-width="1.6"/>
+<line x1="430" y1="255" x2="393.2" y2="291.8" stroke="var(--bergamt)" stroke-width="1.6"/>
+<line x1="430" y1="255" x2="378.0" y2="255.0" stroke="var(--bergamt)" stroke-width="1.6"/>
+<line x1="430" y1="255" x2="393.2" y2="218.2" stroke="var(--bergamt)" stroke-width="1.6"/>
+<line x1="430" y1="255" x2="430.0" y2="203.0" stroke="var(--bergamt)" stroke-width="1.6"/>
+<line x1="430" y1="255" x2="466.8" y2="218.2" stroke="var(--bergamt)" stroke-width="1.6"/>
+<circle cx="430" cy="255" r="5" fill="var(--bergamt)"/>
+<a href="#/text/kuenste/kunstrad/1"><text x="430" y="347" text-anchor="middle" font-size="12.5" fill="var(--bergamt)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Das Kunstrad, 16 bis 36 Fuß</text></a>
+<a href="#/text/kuenste/kunstrad/1"><text x="430" y="363" text-anchor="middle" font-size="11.5" fill="var(--bergamt)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚an der Kraft gewinnet, was man an der Zeit verlieret‘</text></a>
+<line x1="430" y1="255" x2="464" y2="225" stroke="var(--red)" stroke-width="3"/>
+<a href="#/text/kuenste/geschichte/5"><text x="470" y="215" text-anchor="start" font-size="11.5" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">krummer Zapfen (1565)</text></a>
+<line x1="464" y1="225" x2="700" y2="225" stroke="var(--ink)" stroke-width="2.5" stroke-dasharray="14 4"/>
+<a href="#/text/kuenste/geschichte/4"><text x="650" y="213" text-anchor="middle" font-size="12" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Feldgestänge</text></a>
+<rect x="698" y="150" width="44" height="430" fill="var(--panel)" stroke="var(--ink2)" stroke-width="1.2"/>
+<line x1="720" y1="225" x2="720" y2="560" stroke="var(--ink)" stroke-width="2.5"/>
+<rect x="702" y="290" width="36" height="20" fill="var(--wasser)" opacity="0.6"/>
+<rect x="702" y="374" width="36" height="20" fill="var(--wasser)" opacity="0.6"/>
+<rect x="702" y="450" width="36" height="20" fill="var(--wasser)" opacity="0.6"/>
+<rect x="702" y="530" width="36" height="20" fill="var(--wasser)" opacity="0.6"/>
+<a href="#/text/kuenste/geschichte/4"><text x="752" y="330" text-anchor="start" font-size="12" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Pumpensätze übereinander</text></a>
+<a href="#/text/kuenste/geschichte/4"><text x="752" y="348" text-anchor="start" font-size="11.5" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">bis ‚in die 200 Lachter‘</text></a>
+<path d="M 698 384 L 120 400 L 0 404" fill="none" stroke="var(--wasser)" stroke-width="7" opacity="0.8"/>
+<line x1="430" y1="307" x2="426" y2="392" stroke="var(--wasser)" stroke-width="3" stroke-dasharray="4 3"/>
+<a href="#/text/bergamt/stollen/3"><text x="250" y="424" text-anchor="middle" font-size="12.5" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Der Stollen führt alles Wasser zum Tal hinaus</text></a>
+<a href="#/text/bergamt/stollen/3"><text x="250" y="440" text-anchor="middle" font-size="11" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">(Erbstollen: ‚das Neundte‘, Modul ‚Das Bergamt‘)</text></a>
+<rect x="698" y="560" width="44" height="20" fill="var(--wasser)" opacity="0.85"/>
+<a href="#/text/kuenste/geschichte/2"><text x="680" y="606" text-anchor="middle" font-size="12.5" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Der Sumpf: ‚zu Sumpfe halten‘</text></a>
+<rect x="30" y="462" width="540" height="150" rx="10" fill="var(--panel)" stroke="var(--line)" stroke-width="1.2"/>
+<text x="46" y="486" font-size="13.5" font-weight="bold" fill="var(--ink)">Was man statt des Wassers versuchte</text>
+<a href="#/text/kuenste/geschichte/1"><text x="46" y="510" text-anchor="start" font-size="12.5" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">1549  zwölf Pferde im Göpel</text></a>
+<a href="#/text/kuenste/mangel/3"><text x="46" y="531" text-anchor="start" font-size="12.5" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">1635  ein Schwungrad mit Gewichten: abgelehnt</text></a>
+<a href="#/text/kuenste/mangel/4"><text x="46" y="552" text-anchor="start" font-size="12.5" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">1658  ein Perpetuum mobile: ‚billig in Zweifel gezogen‘</text></a>
+<a href="#/text/kuenste/mangel/5"><text x="46" y="573" text-anchor="start" font-size="12.5" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">1670  die Maschine des Archimedes: drei Fragen, dann Schweigen</text></a>
+<a href="#/text/kuenste/mangel/4"><text x="46" y="594" text-anchor="start" font-size="12.5" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">1681  wieder Pferde: nicht versucht</text></a>
+</svg>

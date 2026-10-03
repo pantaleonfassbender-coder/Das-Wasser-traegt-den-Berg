@@ -28,6 +28,10 @@ PLATES = {
     # Modul 2 (e-rara, ETH-Bibliothek, Public Domain Mark)
     "loehneyss_titel": ("ia", "https://www.e-rara.ch/i3f/v20/4845037/full/1400,/0/default.jpg", None),
     "loehneyss_s193": ("ia", "https://www.e-rara.ch/i3f/v20/4845307/full/1400,/0/default.jpg", (60, 640, 1000, 880)),
+    # Modul 3 (Calvör 1763, IA 10705759bsb)
+    "calvoer_s35": ("ia", "https://archive.org/download/10705759bsb/page/n62_w1400.jpg", (40, 585, 1000, 830)),
+    "calvoer_s97": ("ia", "https://archive.org/download/10705759bsb/page/n124_w1400.jpg", (40, 600, 1000, 905)),
+    "calvoer_tab6": ("ia", "https://archive.org/download/10705759bsb/page/n244_w1400.jpg", None),
     "loehneyss_s233": ("ia", "https://www.e-rara.ch/i3f/v20/4845347/full/1400,/0/default.jpg", (60, 545, 1000, 925)),
 }
 

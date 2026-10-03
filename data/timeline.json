@@ -20,6 +20,15 @@
    "plate": "merian_zellerfeld"
   },
   {
+   "d": "1535",
+   "side": "wasser",
+   "titel": "Die Heinzenkunst im Wildemann",
+   "text": "Der Steiger Michael Teußler hängt eine Heinzenkunst in die Grube Wildemann. Herzog Heinrich fährt selbst ein; in einer Stunde hebt sie das Wasser um ein Viertel Lachter, in den folgenden 24 Stunden um keine Leitersprosse mehr. Der Steiger kommt acht Tage in Haft und verliert sein Amt.",
+   "cite": "#/text/kuenste/geschichte/2",
+   "citeLabel": "Geschichte [2]",
+   "plate": "calvoer_s35"
+  },
+  {
    "d": "21. Juni 1554",
    "side": "bergamt",
    "titel": "Die Freiheit für Clausthal",
@@ -29,6 +38,15 @@
    "plate": "calvoer_s219"
   },
   {
+   "d": "1565",
+   "side": "wasser",
+   "titel": "Der krumme Zapfen",
+   "text": "Heinrich Eschenbach, ‚ein Ausländer aus dem Lande Meißen‘, hängt gegen den Widerspruch aller eine Wasserkunst mit dem krummen Zapfen in den Rammelsberg: Das Kunstrad treibt Pumpen, ‚Rad über Rad‘. Seither heben im Oberharz Wasserräder das Grubenwasser.",
+   "cite": "#/text/kuenste/geschichte/5",
+   "citeLabel": "Geschichte [5]",
+   "plate": "calvoer_tab6"
+  },
+  {
    "d": "1617",
    "side": "bergamt",
    "titel": "Der Bericht vom Bergwerck",
@@ -36,6 +54,15 @@
    "cite": "#/text/bergamt/aemter/3",
    "citeLabel": "Ämter [3]",
    "plate": "loehneyss_titel"
+  },
+  {
+   "d": "1635",
+   "side": "besucher",
+   "titel": "Ein Instrument für alle Werke unter der Sonne",
+   "text": "Wolfgang Cörner bietet ein Schwungrad mit Gewichten an, das die Gruben ohne Wasser entwässern soll. Das Bergamt lässt ihn nicht zur Probe: 114 Lachter Teufe, acht Kunsträder, 1000 Taler statt 200, ein Jahr statt sechs Wochen.",
+   "cite": "#/text/kuenste/mangel/3",
+   "citeLabel": "Mangel [3]",
+   "plate": "calvoer_s97"
   },
   {
    "d": "1680–1686",
