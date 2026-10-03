@@ -305,6 +305,51 @@
      ]
     }
    ]
+  },
+  {
+   "id": "last",
+   "titel": "Was den Bergbau beendet",
+   "frage": "Holz, Wasser oder Erz?",
+   "note": "Für die Chronisten, die Calvör 1765 zitiert, endete der mittelalterliche Bergbau, weil der Wald aufgebraucht war. Für Reden 1777 hatten ganze Züge aufgegeben, nicht weil das Erz ausging, sondern wegen ‚der zu großen Last der Grundwasser‘. Beide sagen dasselbe: Nicht die Lagerstätte, sondern die Mittel, sie zu erreichen, setzten dem Bergbau die Grenze.",
+   "voices": [
+    {
+     "text": "holz",
+     "sec": "holznot",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "stollen",
+     "sec": "rede",
+     "n": [
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fachleute",
+   "titel": "Erfinder und Fachleute",
+   "frage": "Leibniz 1680, der Stollen 1777.",
+   "note": "Hundert Jahre nach Leibniz' Windmühlen rechtfertigt der Prediger den Stollen ausdrücklich damit, er sei ‚nicht ein unüberlegtes oder von Unkundigen angerathenes‘ Werk, sondern von einer Versammlung erfahrener Männer beschlossen. Ein Wunder sei nicht zu erwarten. Der Stollen war keine Erfindung, sondern eine sehr lange Strecke Handarbeit, für die man nach der neueren Literatur 22 Jahre brauchte.",
+   "voices": [
+    {
+     "text": "leibniz",
+     "sec": "probe",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "stollen",
+     "sec": "predigt",
+     "n": [
+      3
+     ]
+    }
+   ]
   }
  ]
 }

@@ -46,6 +46,11 @@ PLATES = {
     "calvoer2_s157": ("ia", "https://archive.org/download/10705760bsb/page/n162_w1400.jpg", (0, 470, 1000, 660)),
     "calvoer2_s151": ("ia", "https://archive.org/download/10705760bsb/page/n156_w1400.jpg", (0, 470, 1000, 740)),
     "calvoer2_tab17": ("ia", "https://archive.org/download/10705760bsb/page/n364_w1400.jpg", None),
+    # Modul 7 (Reden 1777, IA 10293262bsb; Lasius 1789, IA 10806207bsb)
+    "reden_titel": ("ia", "https://archive.org/download/10293262bsb/page/n4_w1400.jpg", None),
+    "reden_s10": ("ia", "https://archive.org/download/10293262bsb/page/n21_w1400.jpg", None),
+    "lasius_profil": ("ia", "https://archive.org/download/10806207bsb/page/n70_w1400.jpg", (20, 50, 990, 940)),
+    "lasius_s51": ("ia", "https://archive.org/download/10806207bsb/page/n84_w1400.jpg", (0, 440, 1000, 1000)),
 }
 
 

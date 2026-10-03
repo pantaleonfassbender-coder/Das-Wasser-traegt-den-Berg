@@ -152,7 +152,18 @@
    "d": "26. Juli 1777",
    "side": "wasser",
    "titel": "Der Tiefe Georg-Stollen",
-   "text": "Bei Grund beginnt man feierlich einen Stollen, der das Wasser der Clausthaler Gruben ableiten soll; er wird 1799 fertig. (Nach der neueren Literatur; Modul geplant.)"
+   "text": "Bei Grund tut der Berghauptmann von Reden den ersten Schlag zu einem Stollen, der das Wasser der Clausthaler Gruben 80 Lachter tiefer als bisher ableiten soll; tags darauf predigt Dahme über ‚Von diesem Tage an will ich Seegen geben‘.",
+   "cite": "#/text/stollen/rede/5",
+   "citeLabel": "Rede [5]",
+   "plate": "reden_titel"
+  },
+  {
+   "d": "2. Oktober 1800",
+   "side": "besucher",
+   "titel": "Am fertigen Mundloch",
+   "text": "Ein Reisender sieht in Grund den ‚vor kurzen‘ durchgeschlagenen Stollen: junge Linden, eine Inschrift mit den Namen Reden und Stelzner, und das Wasser aus Clausthal. (Vollendet 1799 nach der neueren Literatur.)",
+   "cite": "#/text/stollen/bau/3",
+   "citeLabel": "Vortrieb [3]"
   },
   {
    "d": "1824",

@@ -47,16 +47,17 @@
    "kurz": "Holz und Hütten",
    "zk": "Holznot, Köhler, Hütte",
    "warum": "Kein Silber ohne Holzkohle. Schon vor 1520, sagten die Bergleute, habe der Bergbau den Harz kahl gemacht. Calvör beschreibt, wie im 18. Jahrhundert der Wald im Malter gemessen, im Meiler zwei Wochen lang verkohlt und an der Hütte nachgezählt wurde: 16 000 Karren im Jahr für zwei Hütten, und was fehlte, zog man Fuhrmann und Köhler vom Lohn ab. Nach Calvör (1763 und 1765), am Seitenbild gelesen, mit vier Tafeln und dem Weg vom Baum zur Hütte als Grafik."
+  },
+  {
+   "id": "stollen",
+   "datei": "stollen",
+   "side": "wasser",
+   "kurz": "Der Tiefe Georg-Stollen, 1777–1799",
+   "zk": "Rede, Predigt, Vortrieb",
+   "warum": "Am 26. Juli 1777 begann bei Grund ein Stollen, der das Grubenwasser von Clausthal in freiem Gefälle ableiten sollte: 4910 Lachter lang, 80 Lachter tiefer als jeder Stollen zuvor. Die Rede des Berghauptmanns von Reden über ‚die zu große Last der Grundwasser‘, die Predigt des Generalsuperintendenten am Tag danach, die kein Wunder versprach und um Bewahrung vor Unglücksfällen betete, dazu Lasius' Profil des Harzes von 1789 und ein Reisender am fertigen Mundloch im Oktober 1800. Am Seitenbild gelesen, mit vier Tafeln und dem Längsschnitt der Stollen als Grafik."
   }
  ],
  "planned": [
-  {
-   "id": "stollen",
-   "side": "wasser",
-   "kurz": "Der Tiefe Georg-Stollen, 1777–1799",
-   "warum": "Am 26. Juli 1777 wurde bei Grund feierlich mit einem Stollen begonnen, der das Wasser der Clausthaler Gruben in freiem Gefälle ableiten sollte. Die Rede des Berghauptmanns von Reden und die Predigt dieses Tages.",
-   "quelle": "C. F. von Reden, Rede bey dem feyerlichen Anfange des Tiefen Georg-Stollen-Baues am 26. Julius 1777 (1777)."
-  },
   {
    "id": "arzt",
    "side": "bergleute",

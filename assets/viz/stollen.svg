@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 660" role="img" aria-labelledby="st-t st-d" font-family="var(--serif)">
+<title id="st-t">Achtzig Lachter tiefer</title>
+<desc id="st-d">Ein schematischer Längsschnitt von links nach rechts: links das Mundloch des Tiefen Georg-Stollens bei Grund, rechts die Grube Caroline bei Clausthal, dazwischen das ansteigende Gebirge. Hoch oben liegen der Neunzehn-Lachter- und der Dreizehn-Lachter-Stollen, die bei Wildemann austreten. 80 Lachter tiefer verläuft der neue Stollen, 4910 Lachter lang; an der Caroline liegt er 162 Lachter unter Tage. Von oben führen Lichtlöcher hinab, das tiefste 113 Lachter nach Reden, 111 nach Lasius. Im Schacht der Caroline zeigen Pumpensätze, wie viel weniger hoch das Wasser nun gehoben werden muss. Unten eine Zeitleiste von 1771 bis 1800.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Achtzig Lachter tiefer</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Schema nach Reden (1777) und Lasius (1789), nicht maßstäblich. Was unter dem Stollen liegt, muss gepumpt werden;</text>
+<text x="16" y="64" font-size="13" fill="var(--ink2)">was darüber liegt, fließt durch ihn von selbst ab.</text>
+<defs><marker id="st-a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--wasser)"/></marker></defs>
+<path d="M 30 330 L 120 300 L 230 220 L 380 150 L 560 120 L 720 105 L 870 100 L 870 430 L 30 430 Z" fill="var(--ink2)" opacity="0.10"/>
+<path d="M 30 330 L 120 300 L 230 220 L 380 150 L 560 120 L 720 105 L 870 100" fill="none" stroke="var(--ink2)" stroke-width="1.6"/>
+<path d="M 300 182 L 790 168" stroke="var(--ink2)" stroke-width="3" stroke-dasharray="8 5"/>
+<a href="#/text/stollen/bau/1"><text x="300" y="176" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--ink2)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Neunzehn-Lachter-Stollen</text></a>
+<path d="M 260 222 L 790 205" stroke="var(--ink)" stroke-width="3.2" stroke-dasharray="10 4"/>
+<a href="#/text/stollen/bau/1"><text x="262" y="238" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Dreizehn-Lachter-Stollen, bisher der tiefste, aus bei Wildemann</text></a>
+<path d="M 70 322 L 790 300" stroke="var(--wasser)" stroke-width="7" stroke-linecap="round"/>
+<path d="M 70 322 L 30 330" stroke="var(--wasser)" stroke-width="5" marker-end="url(#st-a)"/>
+<a href="#/text/stollen/rede/4"><text x="330" y="334" text-anchor="middle" font-size="13" font-weight="bold" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Tiefer Georg-Stollen: 4910 Lachter (Reden), ‚nahe an 5000‘ (Lasius)</text></a>
+<a href="#/text/stollen/bau/1"><text x="330" y="352" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">gemauert ‚ohne alle Mauerspeise‘, ‚für die Ewigkeit‘</text></a>
+<circle cx="70" cy="322" r="7" fill="var(--wasser)"/>
+<a href="#/text/stollen/rede/4"><text x="24" y="286" text-anchor="start" font-size="12.5" font-weight="bold" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Mundloch bei Grund</text></a>
+<a href="#/text/stollen/rede/5"><text x="24" y="270" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">26. Juli 1777: der erste Schlag</text></a>
+<a href="#/text/stollen/bau/3"><text x="76" y="372" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">1800: junge Linden, eine Inschrift</text></a>
+<line x1="230" y1="220" x2="230" y2="317" stroke="var(--bergamt)" stroke-width="2.2"/>
+<line x1="400" y1="148" x2="400" y2="312" stroke="var(--bergamt)" stroke-width="2.2"/>
+<a href="#/text/stollen/rede/4"><text x="406" y="138" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--bergamt)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Lichtloch: 113 Lachter (Reden), 111 (Lasius)</text></a>
+<line x1="560" y1="120" x2="560" y2="307" stroke="var(--bergamt)" stroke-width="2.2"/>
+<a href="#/text/stollen/rede/4"><text x="250" y="116" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--bergamt)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Lichtlöcher: von oben zugleich vortreiben und lüften</text></a>
+<rect x="778" y="100" width="24" height="320" fill="var(--panel)" stroke="var(--ink2)" stroke-width="1.2"/>
+<a href="#/text/stollen/rede/4"><text x="790" y="90" text-anchor="middle" font-size="12.5" font-weight="bold" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Grube Caroline, Clausthal</text></a>
+<rect x="781" y="226" width="18" height="12" fill="var(--red)" opacity="0.45"/>
+<rect x="781" y="252" width="18" height="12" fill="var(--red)" opacity="0.45"/>
+<rect x="781" y="278" width="18" height="12" fill="var(--red)" opacity="0.45"/>
+<rect x="781" y="324" width="18" height="12" fill="var(--wasser)" opacity="0.65"/>
+<rect x="781" y="354" width="18" height="12" fill="var(--wasser)" opacity="0.65"/>
+<rect x="781" y="384" width="18" height="12" fill="var(--wasser)" opacity="0.65"/>
+<line x1="808" y1="205" x2="808" y2="300" stroke="var(--red)" stroke-width="1.4"/>
+<line x1="804" y1="205" x2="812" y2="205" stroke="var(--red)"/><line x1="804" y1="300" x2="812" y2="300" stroke="var(--red)"/>
+<a href="#/text/stollen/rede/4"><text x="816" y="250" text-anchor="start" font-size="12" font-weight="bold" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">80 Lachter</text></a>
+<a href="#/text/stollen/rede/4"><text x="816" y="266" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">weniger</text></a>
+<a href="#/text/stollen/rede/4"><text x="816" y="282" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">zu heben</text></a>
+<line x1="808" y1="108" x2="808" y2="296" stroke="var(--ink2)" stroke-width="0.8" stroke-dasharray="3 3"/>
+<a href="#/text/stollen/rede/4"><text x="772" y="318" text-anchor="end" font-size="11.5" font-weight="normal" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">162 Lachter unter Tage</text></a>
+<a href="#/text/stollen/rede/2"><text x="772" y="410" text-anchor="end" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">die Pumpen darunter heben nur noch bis hierher</text></a>
+<line x1="70" y1="525" x2="840" y2="525" stroke="var(--ink2)" stroke-width="1.5"/>
+<line x1="70" y1="521" x2="70" y2="529" stroke="var(--ink2)"/>
+<text x="70" y="545" text-anchor="middle" font-size="11" fill="var(--ink2)">1770</text>
+<line x1="194" y1="521" x2="194" y2="529" stroke="var(--ink2)"/>
+<text x="194" y="545" text-anchor="middle" font-size="11" fill="var(--ink2)">1775</text>
+<line x1="318" y1="521" x2="318" y2="529" stroke="var(--ink2)"/>
+<text x="318" y="545" text-anchor="middle" font-size="11" fill="var(--ink2)">1780</text>
+<line x1="443" y1="521" x2="443" y2="529" stroke="var(--ink2)"/>
+<text x="443" y="545" text-anchor="middle" font-size="11" fill="var(--ink2)">1785</text>
+<line x1="567" y1="521" x2="567" y2="529" stroke="var(--ink2)"/>
+<text x="567" y="545" text-anchor="middle" font-size="11" fill="var(--ink2)">1790</text>
+<line x1="691" y1="521" x2="691" y2="529" stroke="var(--ink2)"/>
+<text x="691" y="545" text-anchor="middle" font-size="11" fill="var(--ink2)">1795</text>
+<line x1="815" y1="521" x2="815" y2="529" stroke="var(--ink2)"/>
+<text x="815" y="545" text-anchor="middle" font-size="11" fill="var(--ink2)">1800</text>
+<rect x="258" y="520" width="545" height="10" fill="var(--wasser)" opacity="0.35"/>
+<circle cx="107" cy="525" r="6" fill="var(--bergamt)"/>
+<line x1="107" y1="517" x2="107" y2="505" stroke="var(--bergamt)" stroke-width="1"/>
+<a href="#/text/stollen/rede/3"><text x="107.25806451612902" y="499" text-anchor="start" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Bergamtsprotokoll</text></a>
+<circle cx="258" cy="525" r="6" fill="var(--wasser)"/>
+<line x1="258" y1="533" x2="258" y2="557" stroke="var(--wasser)" stroke-width="1"/>
+<a href="#/text/stollen/predigt/1"><text x="258.0290322580629" y="571" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">26./27. Juli 1777: Rede und Predigt</text></a>
+<circle cx="542" cy="525" r="6" fill="var(--ink)"/>
+<line x1="542" y1="517" x2="542" y2="505" stroke="var(--ink)" stroke-width="1"/>
+<a href="#/text/stollen/bau/2"><text x="541.9354838709678" y="499" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Lasius: ‚noch nicht ganz vollendet‘</text></a>
+<circle cx="803" cy="525" r="6" fill="var(--ink2)"/>
+<line x1="803" y1="533" x2="803" y2="557" stroke="var(--ink2)" stroke-width="1"/>
+<a href="#/text/stollen/bau/3"><text x="802.741935483871" y="571" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Durchschlag (neuere Literatur)</text></a>
+<circle cx="834" cy="525" r="6" fill="var(--besucher)"/>
+<line x1="834" y1="517" x2="834" y2="505" stroke="var(--besucher)" stroke-width="1"/>
+<a href="#/text/stollen/bau/3"><text x="833.7903225806451" y="499" text-anchor="end" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Horstig in Grund</text></a>
+<text x="70" y="630" font-size="11.5" fill="var(--ink2)">Ein Lachter ist knapp zwei Meter (neuere Literatur). Die Kosten des Stollens nennt keine der hier abgedruckten Quellen.</text>
+</svg>
