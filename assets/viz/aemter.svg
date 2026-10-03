@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-labelledby="am-t am-d" font-family="var(--serif)">
+<title id="am-t">Das Bergamt nach der Bergordnung bei Löhneyß, 1617</title>
+<desc id="am-d">Oben der Landesfürst, darunter der Berghauptmann an seiner Statt. Unter ihm vier Spalten: die Rechnung (Zehntner, Gegenschreiber, Bergschreiber), die Gruben (Oberbergmeister, Bergmeister, Geschworene, Einfahrer, Steiger, Schichtmeister, Markscheider), die Pochwerke und die Hütten. Daneben die Gewerken, die zahlen, und ganz unten die Ältesten der Knappschaft und die Häuslinge. Eine gestrichelte Linie führt von allen zurück zum Fürsten: die Klage ‚mit Bescheidenheit‘.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Wer das Bergwerk regiert</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Nach der Bergordnung, die Löhneyß 1617 abdruckt. Die Bergleute selbst erscheinen nur als ‚Älteste und Jüngste der Knappschaft‘.</text>
+<line x1="450" y1="122" x2="450" y2="150" stroke="var(--ink2)" stroke-width="1.4"/>
+<a href="#/text/bergamt/aemter/3"><g><rect x="320.0" y="70" width="260" height="52" rx="8" fill="var(--panel)" stroke="var(--bergamt)" stroke-width="2.4"/><text x="450" y="92" text-anchor="middle" font-size="14.5" font-weight="bold" fill="var(--bergamt)">Der Landesfürst</text><text x="450" y="110" text-anchor="middle" font-size="11.5" fill="var(--ink2)">‚Wir‘: gibt die Ordnung, hört die Klagen</text></g></a>
+<a href="#/text/bergamt/aemter/5"><g><rect x="300.0" y="150" width="300" height="52" rx="8" fill="var(--panel)" stroke="var(--bergamt)" stroke-width="2.4"/><text x="450" y="172" text-anchor="middle" font-size="14.5" font-weight="bold" fill="var(--bergamt)">Der Berghauptmann</text><text x="450" y="190" text-anchor="middle" font-size="11.5" fill="var(--ink2)">‚an des Landeßfürsten statt‘</text></g></a>
+<line x1="450" y1="202" x2="450" y2="226" stroke="var(--ink2)" stroke-width="1.4"/>
+<line x1="130" y1="226" x2="770" y2="226" stroke="var(--ink2)" stroke-width="1.4"/>
+<line x1="130" y1="226" x2="130" y2="246" stroke="var(--ink2)" stroke-width="1.4"/>
+<text x="130" y="262" text-anchor="middle" font-size="13" font-style="italic" fill="var(--bergamt)">Die Rechnung</text>
+<a href="#/text/bergamt/aemter/3"><text x="130" y="284" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Zehntner</text></a>
+<a href="#/text/bergamt/aemter/3"><text x="130" y="303" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Zehntgegenschreiber</text></a>
+<a href="#/text/bergamt/aemter/3"><text x="130" y="322" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Bergschreiber</text></a>
+<a href="#/text/bergamt/aemter/3"><text x="130" y="341" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Berggegenschreiber</text></a>
+<line x1="340" y1="226" x2="340" y2="246" stroke="var(--ink2)" stroke-width="1.4"/>
+<text x="340" y="262" text-anchor="middle" font-size="13" font-style="italic" fill="var(--wasser)">Die Gruben</text>
+<a href="#/text/bergamt/aemter/6"><text x="340" y="284" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Oberbergmeister</text></a>
+<a href="#/text/bergamt/aemter/6"><text x="340" y="303" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Bergmeister</text></a>
+<a href="#/text/bergamt/aemter/6"><text x="340" y="322" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Geschworene</text></a>
+<a href="#/text/bergamt/aemter/6"><text x="340" y="341" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Einfahrer</text></a>
+<a href="#/text/bergamt/aemter/6"><text x="340" y="360" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Steiger</text></a>
+<a href="#/text/bergamt/aemter/6"><text x="340" y="379" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Schichtmeister</text></a>
+<a href="#/text/bergamt/aemter/6"><text x="340" y="398" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Markscheider</text></a>
+<line x1="560" y1="226" x2="560" y2="246" stroke="var(--ink2)" stroke-width="1.4"/>
+<text x="560" y="262" text-anchor="middle" font-size="13" font-style="italic" fill="var(--wald)">Die Pochwerke</text>
+<a href="#/text/bergamt/aemter/3"><text x="560" y="284" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Oberpochsteiger</text></a>
+<a href="#/text/bergamt/aemter/3"><text x="560" y="303" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Pochsteiger</text></a>
+<line x1="770" y1="226" x2="770" y2="246" stroke="var(--ink2)" stroke-width="1.4"/>
+<text x="770" y="262" text-anchor="middle" font-size="13" font-style="italic" fill="var(--wald)">Die Hütten</text>
+<a href="#/text/bergamt/aemter/3"><text x="770" y="284" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Hüttenreiter</text></a>
+<a href="#/text/bergamt/aemter/3"><text x="770" y="303" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Hüttenschreiber</text></a>
+<a href="#/text/bergamt/aemter/3"><text x="770" y="322" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Probierer</text></a>
+<a href="#/text/bergamt/aemter/3"><text x="770" y="341" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Silberbrenner</text></a>
+<a href="#/text/bergamt/aemter/3"><text x="770" y="360" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Hüttenmeister</text></a>
+<a href="#/text/bergamt/aemter/3"><text x="770" y="379" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Schmelzer</text></a>
+<a href="#/text/bergamt/aemter/3"><text x="770" y="398" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Abtreiber</text></a>
+<a href="#/text/bergamt/aemter/3"><text x="770" y="417" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Vorläufer</text></a>
+<a href="#/text/bergamt/aemter/3"><text x="770" y="436" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Röstbrenner</text></a>
+<a href="#/text/bergamt/aemter/3"><text x="770" y="455" text-anchor="middle" font-size="12.5" fill="var(--ink)" text-decoration="underline">Hüttenwächter</text></a>
+<rect x="250" y="250" width="180" height="170" rx="10" fill="var(--wasser)" opacity="0.08"/>
+<a href="#/text/bergamt/aemter/6"><text x="340" y="440" text-anchor="middle" font-size="11.5" fill="var(--wasser)" text-decoration="underline">verleiht Zechen, Stollen, ‚Wassergefäll‘</text></a>
+<a href="#/text/bergamt/aemter/6"><text x="340" y="456" text-anchor="middle" font-size="11.5" fill="var(--wasser)" text-decoration="underline">Samstags der Anschnitt</text></a>
+<a href="#/text/bergamt/aemter/4"><g><rect x="40.0" y="480" width="220" height="52" rx="8" fill="var(--panel)" stroke="var(--bergamt)" stroke-width="1.5"/><text x="150" y="502" text-anchor="middle" font-size="14.5" font-weight="normal" fill="var(--bergamt)">Die Gewerken</text><text x="150" y="520" text-anchor="middle" font-size="11.5" fill="var(--ink2)">zahlen Zubuße, erhalten Ausbeute</text></g></a>
+<a href="#/text/bergamt/aemter/3"><g><rect x="300.0" y="540" width="300" height="52" rx="8" fill="var(--panel)" stroke="var(--bergleute)" stroke-width="1.5"/><text x="450" y="562" text-anchor="middle" font-size="14.5" font-weight="normal" fill="var(--bergleute)">Älteste und Jüngste der Knappschaft</text><text x="450" y="580" text-anchor="middle" font-size="11.5" fill="var(--ink2)">Einwohner und Häuslinge</text></g></a>
+<a href="#/text/bergamt/aemter/2"><g><rect x="660.0" y="480" width="220" height="52" rx="8" fill="var(--panel)" stroke="var(--bergleute)" stroke-width="1.5"/><text x="770" y="502" text-anchor="middle" font-size="14.5" font-weight="normal" fill="var(--bergleute)">Der Eid</text><text x="770" y="520" text-anchor="middle" font-size="11.5" fill="var(--ink2)">‚mit allen Teuffeln verbant‘</text></g></a>
+<path d="M 300 592 L 14 592 L 14 96 L 320 96" fill="none" stroke="var(--ink2)" stroke-width="1.3" stroke-dasharray="6 4"/>
+<a href="#/text/bergamt/aemter/4"><text x="22" y="630" font-size="12" fill="var(--ink2)" text-decoration="underline">Klage nur ‚mit Bescheidenheit‘ beim Fürsten</text></a>
+<a href="#/text/bergamt/aemter/4"><text x="620" y="630" text-anchor="middle" font-size="12" fill="var(--ink2)" text-decoration="underline">Gehorsam ‚ohn widerrede‘</text></a>
+</svg>

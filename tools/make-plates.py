@@ -17,7 +17,7 @@ from PIL import Image
 
 ROOT = Path(__file__).resolve().parent.parent
 DEST = ROOT / "assets" / "plates"
-UA = {"User-Agent": "Mozilla/5.0 (research; Das Wasser traegt den Berg)"}
+UA = {"User-Agent": "Mozilla/5.0 (research; Das Wasser traegt den Berg; pantaleonfassbender@gmail.com)"}
 
 PLATES = {
     # Modul 1
@@ -25,6 +25,10 @@ PLATES = {
     "calvoer_s219": ("ia", "https://archive.org/download/10705761bsb/page/n238_w1400.jpg", (40, 280, 980, 640)),
     "merian_clausthal": ("commons", "File:Merian Clausthal.JPG", (0, 0, 1000, 495)),
     "merian_zellerfeld": ("commons", "File:Zellerfeld (Merian).jpg", None),
+    # Modul 2 (e-rara, ETH-Bibliothek, Public Domain Mark)
+    "loehneyss_titel": ("ia", "https://www.e-rara.ch/i3f/v20/4845037/full/1400,/0/default.jpg", None),
+    "loehneyss_s193": ("ia", "https://www.e-rara.ch/i3f/v20/4845307/full/1400,/0/default.jpg", (60, 640, 1000, 880)),
+    "loehneyss_s233": ("ia", "https://www.e-rara.ch/i3f/v20/4845347/full/1400,/0/default.jpg", (60, 545, 1000, 925)),
 }
 
 

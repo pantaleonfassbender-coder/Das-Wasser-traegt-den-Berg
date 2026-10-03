@@ -7,16 +7,17 @@
    "kurz": "Die Bergfreiheiten, 1521–1554",
    "zk": "Hohnstein, Heinrich, Clausthal",
    "warum": "Wie man Bergleute in ein Gebirge lockte, auf dem kein Getreide wuchs: Holz aus allen Wäldern, Bier ohne Steuer, Jahre ohne Zehnt, ein eigener Markt, freier Zu- und Abzug. Drei Freiheitsbriefe von 1521, 1532 und 1554 zeigen, wie aus den Versprechen eine Ordnung wurde: das Holz nach Anweisung der Förster, das Silber in die Kammer des Landesherrn, ein Bergamt von seinetwegen, und das Wasser als Recht des Bergwerks. Nach Calvörs Abdruck von 1765, am Seitenbild gelesen, mit Übertragung, vier Tafeln und einem Vergleich als Grafik."
+  },
+  {
+   "id": "bergamt",
+   "datei": "bergamt",
+   "side": "bergamt",
+   "kurz": "Das Bergamt: Löhneyß' Bericht vom Bergwerck, 1617",
+   "zk": "Vorrede, Ämter, Stollen",
+   "warum": "Ein Berghauptmann schreibt gegen die Gelehrten, die ‚allein ad Theoricam‘ gesehen haben, und druckt die Ordnung, nach der ein Bergwerk regiert wird: vom Berghauptmann ‚an des Landeßfürsten statt‘ bis zu den Ältesten der Knappschaft, mit einem Eid, der einen ‚mit allen Teuffeln verbant‘. Dazu das Recht des Wassers: Wer einer Grube mit seinem Erbstollen ‚das Wasser benimpt‘, erhält das Neunte ihres Erzes. Und ein Artikel, der Juden aus den Bergstädten fernhält. Nach der Erstausgabe von 1617, am Seitenbild gelesen, mit Übertragung, drei Tafeln und einem Schaubild der Ämter."
   }
  ],
  "planned": [
-  {
-   "id": "bergamt",
-   "side": "bergamt",
-   "kurz": "Das Bergamt: Löhneyß' Bericht vom Bergwerck, 1617",
-   "warum": "Ein Berghauptmann beschreibt, wie man ein Bergwerk ‚bawen und in guten Wolstande bringen sol‘: Ämter vom Berghauptmann bis zum Steiger, Schichten und Löhne, Zehnt und Zubuße, Recht und Strafen. Die Ordnung, die das Spiel als Rolle übernimmt.",
-   "quelle": "G. E. Löhneyß, Bericht vom Bergwerck (Zellerfeld 1617; benutzt in der Ausgabe 1660)."
-  },
   {
    "id": "kuenste",
    "side": "wasser",

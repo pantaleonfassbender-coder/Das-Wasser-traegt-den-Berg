@@ -29,6 +29,27 @@
    "titel": "‚Bergstatt Zellerfeld Auf dem Harte‘",
    "caption": "Merians Ansicht der Nachbarstadt Zellerfeld, um 1650, die zum Fürstentum Braunschweig-Wolfenbüttel gehörte und ihre Freiheit von Herzog Heinrich dem Jüngeren hatte (Heinrich [1]). Im Vordergrund Halden und Schachtgebäude, in der Mitte die Stadt.",
    "source": "Matthäus Merian, Topographia, um 1650; Digitalisat der Herzog August Bibliothek Wolfenbüttel, via Wikimedia Commons (gemeinfrei)."
+  },
+  {
+   "id": "loehneyss_titel",
+   "side": "bergamt",
+   "titel": "‚Bergkwercke im Lande Ist eine Gabe Gottes‘",
+   "caption": "Das Titelblatt der Erstausgabe von 1617, ‚Beschrieben durch G. E. Löhneyß: Fürstlichen Braunschweigischen Bergkhauptman‘. Unten Bergleute vor einem Stollenmundloch und die Verse ‚Das Bergkwerck wil haben Verstandt/ Und ein getrewe Handt. Wer Bergkwerck wil bawen/ Muß GOtt und dem Glück vertrawen.‘ Darüber ‚Deutero: 8‘: das Land, ‚aus dessen Bergen du Erz hauest‘ (5 Mose 8,9).",
+   "source": "G. E. Löhneyß, Bericht vom Bergkwerck ([Zellerfeld] 1617), Titelblatt; ETH-Bibliothek Zürich, Rar 1553, e-rara doi:10.3931/e-rara-15531 (Public Domain Mark)."
+  },
+  {
+   "id": "loehneyss_s193",
+   "side": "bergamt",
+   "titel": "‚Den Bergk-Hauptman an des Fürsten statt‘",
+   "caption": "Seite 193 der Erstausgabe: der Anfang der Liste der Ämter, die das Bergwerk regieren, vom Berghauptmann über Zehntner und Bergschreiber bis zu Bergmeister, Geschworenen, Steigern, Schichtmeistern und dem Markscheider (Ämter [3]).",
+   "source": "G. E. Löhneyß, Bericht vom Bergkwerck ([Zellerfeld] 1617), S. 193; ETH-Bibliothek Zürich, e-rara doi:10.3931/e-rara-15531 (Public Domain Mark), Ausschnitt."
+  },
+  {
+   "id": "loehneyss_s233",
+   "side": "wasser",
+   "titel": "‚derselben Zechen Wasser benimpt‘",
+   "caption": "Seite 233: der Artikel von der Stollengerechtigkeit und Erbteufe. Wer einer Grube mit seinem Erbstollen das Wasser nimmt und Wetter bringt, erhält ‚der Hieb und das Neundte‘ (Stollen [3]).",
+   "source": "G. E. Löhneyß, Bericht vom Bergkwerck ([Zellerfeld] 1617), S. 233; ETH-Bibliothek Zürich, e-rara doi:10.3931/e-rara-15531 (Public Domain Mark), Ausschnitt."
   }
  ]
 }

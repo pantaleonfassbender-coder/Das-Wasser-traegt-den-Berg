@@ -51,6 +51,58 @@
      ]
     }
    ]
+  },
+  {
+   "id": "wasserrecht",
+   "titel": "Wasser als Recht",
+   "frage": "Was die Freiheit von 1554 und die Bergordnung bei Löhneyß über das Wasser sagen.",
+   "note": "1554 erlaubt der Herzog den Gewerken, Zellbach und Innerste ‚zum Bergwercke nothdürfftig‘ zu gebrauchen: Das Wasser über Tage wird ein Recht des Bergwerks. Bei Löhneyß verleiht der Bergmeister ‚Wassergefäll‘ wie Zechen und Stollen, und unter Tage bekommt ein Erbstollen, der einer Grube ‚das Wasser benimpt‘, das Neunte ihres Erzes. Das Wasser, das die Räder treibt, und das Wasser, das aus den Gruben muss, sind beide Gegenstände des Bergrechts geworden.",
+   "voices": [
+    {
+     "text": "freiheit",
+     "sec": "clausthal",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "bergamt",
+     "sec": "aemter",
+     "n": [
+      6
+     ]
+    },
+    {
+     "text": "bergamt",
+     "sec": "stollen",
+     "n": [
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "praxis",
+   "titel": "Der Erbstollen, 1532 und 1617",
+   "frage": "Die Freiheit Herzog Heinrichs und die Bergordnung bei Löhneyß über den Erbstollen.",
+   "note": "Herzog Heinrich beginnt seine Bergfreiheit 1532 mit einem Erbstollen, der den Gruben ‚die Wasser-Noht‘ genommen hat, als Zeichen göttlicher Gnade. Fünfundachtzig Jahre später ist der Erbstollen ein Rechtsgegenstand mit genauen Maßen: neuneinhalb Lachter Teufe, eine Wasserseige, die niemand senken darf, und als Lohn das Neunte. Aus der Gnade ist ein Vertrag zwischen Stollen und Gruben geworden, über den der Bergmeister wacht.",
+   "voices": [
+    {
+     "text": "freiheit",
+     "sec": "heinrich",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "bergamt",
+     "sec": "stollen",
+     "n": [
+      3,
+      4
+     ]
+    }
+   ]
   }
  ]
 }
