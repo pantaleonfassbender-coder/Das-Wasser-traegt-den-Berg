@@ -65,7 +65,7 @@ function overview() {
     <div class="panel"><h3>Warum scheiterte Leibniz?</h3>
       <p>Ein Universalgelehrter wollte die Gruben mit Windmühlen entwässern und bekam dafür einen Vertrag. Bergamt und Erfinder lasen ihn verschieden, der Wind war zu schwach oder zu stark, und 1686 wurde die Maschine abgebrochen. Der Apparat stellt Leibniz' eigene Worte neben Calvörs Bericht aus den Akten und die späteren Urteile über die Schuld.</p></div>
     <div class="panel"><h3>Lässt sich das spielen?</h3>
-      <p>Ein Begleitspiel, <a href="https://die-last-der-grundwasser.netlify.app/"><em>Die Last der Grundwasser</em></a>, ist als Prototyp 0 spielbar: Man führt das Bergamt über Generationen, von 1521 bis 1866, zwischen Landesherr, Gewerken und Knappschaft, mit Regen und Dürre, Teichen, Gräben, Kunsträdern und Stollen. Gruben können absaufen, Bergleute verunglücken. Jede Karte verweist auf eine Stelle, die hier abgedruckt ist.</p></div>
+      <p>Ein Begleitspiel, <a href="https://die-last-der-grundwasser.netlify.app/"><em>Die Last der Grundwasser</em></a>, ist als Prototyp 0 spielbar, hier oder <a href="https://leofassb.itch.io/die-last-der-grundwasser">auf itch.io</a>, mit einem Strategieguide: Man führt das Bergamt über Generationen, von 1521 bis 1866, zwischen Landesherr, Gewerken und Knappschaft, mit Regen und Dürre, Teichen, Gräben, Kunsträdern und Stollen. Gruben können absaufen, Bergleute verunglücken. Jede Karte verweist auf eine Stelle, die hier abgedruckt ist.</p></div>
   </div>`;
 }
 
