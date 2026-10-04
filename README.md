@@ -1,5 +1,7 @@
 # Das Wasser trägt den Berg. Silberbergbau und Wasserwirtschaft im Oberharz 1520–1866
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23129611.svg)](https://doi.org/10.5281/zenodo.23129611)
+
 Ein Quellenapparat zum Oberharzer Bergbau von den ersten Bergfreiheiten um 1520 bis zum Übergang an Preußen 1866. Gemeinfreie Drucke, das Original neben einer neuhochdeutschen Übertragung, jeder Auszug am Seitenbild des Digitalisats gelesen.
 
 Live: https://das-wasser-traegt-den-berg.netlify.app/
@@ -24,6 +26,10 @@ Zehn Module mit 136 Einheiten:
 Dazu eine Zeitleiste (25 Stationen), 20 Vergleiche, 37 gemeinfreie Bildtafeln, eine Visualisierung je Modul und eine Liste der geprüften und nicht aufgenommenen Quellen. Die Anmerkungen benennen Widersprüche der Quellen, Unfälle und Gewalt, soweit die Quellen sie nennen, und Klischees, wo sie vorkommen; was nur aus der neueren Literatur stammt, ist gekennzeichnet.
 
 Das Begleitspiel *Die Last der Grundwasser* (https://die-last-der-grundwasser.netlify.app/) nimmt seinen Titel von Reden.
+
+## Zitieren
+
+Fassbender, Pantaleon. *Das Wasser trägt den Berg. Silberbergbau und Wasserwirtschaft im Oberharz 1520–1866. Ein Quellenapparat.* 2026. https://doi.org/10.5281/zenodo.23129611 (alle Versionen; Version 1.0.0: https://doi.org/10.5281/zenodo.23129612). Bitte zitieren Sie für jede wörtlich übernommene Stelle auch die gedruckte Quelle. Metadaten: `CITATION.cff`, `.zenodo.json`.
 
 ## Prüfen
 

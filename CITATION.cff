@@ -31,5 +31,13 @@ keywords:
   - Heinrich Heine
   - digital humanities
 license: MIT
+doi: 10.5281/zenodo.23129611
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23129611
+    description: "Concept-DOI (alle Versionen)"
+  - type: doi
+    value: 10.5281/zenodo.23129612
+    description: "Version 1.0.0"
 version: 1.0.0
-date-released: 2026-10-03
+date-released: 2026-10-04
