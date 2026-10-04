@@ -1,0 +1,35 @@
+{
+  "upload_type": "dataset",
+  "title": "Das Wasser trägt den Berg. Silberbergbau und Wasserwirtschaft im Oberharz 1520–1866. Ein Quellenapparat",
+  "creators": [
+    {
+      "name": "Fassbender, Pantaleon",
+      "orcid": "0000-0002-6683-3617"
+    }
+  ],
+  "description": "<p>Ein digitaler Quellenapparat zum Oberharzer Silberbergbau von den ersten Bergfreiheiten um 1520 bis zum Übergang an Preußen 1866. These, an den Texten zu prüfen: Nicht das Erz trug den Oberharzer Bergbau, sondern das Wasser. Ganze Gangzüge wurden aufgegeben, weil &bdquo;nicht sowohl der Mangel der Erze&ldquo; als &bdquo;die zu große Last der Grundwasser&ldquo; den Ausschlag gab (Reden 1777), und noch 1868 bewegte &bdquo;stets nur das eine Agens Wasser&ldquo; alle Maschinen (Dumreicher).</p><p>Stufe 1: zehn Module mit 136 Einheiten, Originale neben einer neuhochdeutschen Übertragung: die Bergfreiheiten 1521&ndash;1554 (Calvör 1765); das Bergamt nach der Bergordnung bei Löhneyß (1617); die Künste und der Wassermangel; Teiche und Gräben mit den Dammbrüchen von 1572 und 1733 (Calvör 1763); Leibniz im Harz 1678&ndash;1686 (Calvör 1763, Leibniz nach Gerland 1906); Holz und Hütten (Calvör 1763, 1765); der Tiefe Georg-Stollen 1777&ndash;1799 (Reden und Dahme 1777, Lasius 1789, Horstig 1805); der Bergarzt (Lentin 1774&ndash;1808); Heine fährt ein, 1824 (Reisebilder 1830); das System um 1866 (Dumreicher 1868, Kerl 1852).</p><p>Jeder Auszug ist am Seitenbild des Digitalisats gelesen. Die Anmerkungen benennen Widersprüche der Quellen, Unfälle und Gewalt, soweit die Quellen sie nennen, und Klischees, wo sie vorkommen; was nur aus der neueren Literatur stammt, ist gekennzeichnet. Mit Zeitleiste (25 Stationen), 20 Vergleichen, 37 gemeinfreien Bildtafeln, einer Visualisierung je Modul und einer Liste der geprüften und nicht aufgenommenen Quellen. Begleitspiel: <em>Die Last der Grundwasser</em>.</p><p><em>English:</em> A source apparatus (in German) on silver mining and water management in the Upper Harz, 1520&ndash;1866: ten modules, 136 units, Early New High German and New High German originals with modern German renderings, every excerpt read against page images; timeline, 20 paired readings, 37 public-domain plates, one visualization per module.</p><p>Lizenzen: Code MIT; redaktionelle Texte CC BY 4.0; Editionen und Übertragungen CC0 1.0 &mdash; siehe LICENSES.md. Live: https://das-wasser-traegt-den-berg.netlify.app/</p>",
+  "license": "MIT",
+  "language": "deu",
+  "keywords": [
+    "Oberharz",
+    "Harz",
+    "Bergbau",
+    "Silberbergbau",
+    "Oberharzer Wasserregal",
+    "Wasserwirtschaft",
+    "Clausthal",
+    "Zellerfeld",
+    "Tiefer Georg-Stollen",
+    "Gottfried Wilhelm Leibniz",
+    "Heinrich Heine",
+    "Quellenedition",
+    "Digital Humanities"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://das-wasser-traegt-den-berg.netlify.app/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    }
+  ]
+}

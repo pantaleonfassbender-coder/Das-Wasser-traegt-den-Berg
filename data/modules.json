@@ -82,5 +82,62 @@
   }
  ],
  "planned": [],
- "missing": []
+ "missing": [
+  {
+   "id": "trebra",
+   "side": "besucher",
+   "kurz": "Trebra über Leibniz' ‚misslungene Versuche‘, 1789",
+   "warum": "Nur mittelbar benutzt: Trebras Aufsatz druckt Stücke aus den Clausthaler Akten zu Leibniz' Windmühlen. Im Modul ‚Leibniz im Harz‘ steht er nur in den Zitaten Gerlands (1906), nicht am eigenen Seitenbild geprüft; das ist dort vermerkt.",
+   "quelle": "F. W. H. von Trebra, Des Hofraths von Leibnitz misslungene Versuche an den Bergwerksmaschinen des Harzes, in: Bergbaukunde I (Leipzig 1789), S. 305 ff. (Internet Archive 10705775bsb)."
+  },
+  {
+   "id": "leibniz_aa",
+   "side": "besucher",
+   "kurz": "Leibniz in der Akademie-Ausgabe",
+   "warum": "Bewusst nicht benutzt: Die kritische Akademie-Ausgabe enthält die Harzer Denkschriften und Briefe vollständig, ist als wissenschaftliche Ausgabe aber geschützt. Der Apparat bleibt bei Gerland 1906 und Calvör 1763.",
+   "quelle": "G. W. Leibniz, Sämtliche Schriften und Briefe, hg. von der Berlin-Brandenburgischen und der Göttinger Akademie der Wissenschaften, Reihe I und III."
+  },
+  {
+   "id": "hake",
+   "side": "bergamt",
+   "kurz": "Hakes Bergchronik",
+   "warum": "Nur in Zitaten: Die Chronik des Wildemanner Pfarrers Hardanus Hake (um 1583) erscheint im Apparat nur, soweit Calvör (1763, 1765) und Dumreicher (1868) sie anführen, etwa mit dem Dammbruch von 1572. Die Chronik selbst ist nicht benutzt.",
+   "quelle": "Zitiert bei H. Calvör (1763, 1765) und A. Dumreicher (1868, S. 13)."
+  },
+  {
+   "id": "loehneyss1660",
+   "side": "bergamt",
+   "kurz": "Löhneyß, Ausgabe 1660",
+   "warum": "Ersetzt: Die zunächst vorgesehene Ausgabe von 1660 war in den Digitalisaten der Universitäts- und Landesbibliothek Sachsen-Anhalt und der SLUB Dresden wegen einer Zugangssperre für automatisierte Abrufe nicht erreichbar. Benutzt ist stattdessen die Erstausgabe 1617 bei e-rara.",
+   "quelle": "G. E. Löhneyß, Bericht vom Bergwerck (Zellerfeld 1617), e-rara, doi:10.3931/e-rara-15531."
+  },
+  {
+   "id": "gatterer",
+   "side": "besucher",
+   "kurz": "Gatterers Anleitung, den Harz zu bereisen, 1785/86",
+   "warum": "Gesichtet, nicht aufgenommen: Gatterer nennt den Tiefen Georg-Stollen mehrfach, die geprüften Stellen gehen aber nicht über Redens Rede und Lasius hinaus. Eine vollständige Durchsicht der zwei Bände steht aus.",
+   "quelle": "C. W. J. Gatterer, Anleitung den Harz und andere Bergwerke mit Nuzen zu bereisen, 2 Bde. (Göttingen 1785–1786) (Internet Archive 10707386bsb, 10707387bsb)."
+  },
+  {
+   "id": "gotthard",
+   "side": "wasser",
+   "kurz": "Gotthards Beschreibung des Tiefen Georg-Stollens, 1801",
+   "warum": "Nicht gefunden: Dumreicher nennt eine ‚Authentische Beschreibung‘ des Stollenbaus von 1801, die mehr über den Vortrieb und vielleicht über die Arbeiter sagen könnte als Rede und Predigt. Im Internet Archive war sie nicht zu finden.",
+   "quelle": "Gotthard, Authentische Beschreibung von dem merkwürdigen Bau des Tiefen-Georg-Stollen (Wernigerode 1801), nach Dumreicher 1868, Vorbemerkungen."
+  },
+  {
+   "id": "dumreicher_tab",
+   "side": "wasser",
+   "kurz": "Dumreichers Tabellen und Karten",
+   "warum": "Nicht wiedergegeben: Die zweite Abteilung von Dumreichers Buch verzeichnet Teich für Teich und Rad für Rad das ganze System nach Revieren (S. 47 ff.). Sie ist für eine Wiedergabe als Text zu umfangreich; die beiden Karten (Grundriss und Profil) sind im benutzten Exemplar nicht digitalisiert.",
+   "quelle": "A. Dumreicher, Gesammtüberblick über die Wasserwirthschaft des nordwestlichen Oberharzes (Clausthal 1868), Tabellarische Uebersicht (Bayerische Staatsbibliothek, bsb10060258)."
+  },
+  {
+   "id": "jacob1886",
+   "side": "bergleute",
+   "kurz": "Bleikrankheiten im Oberharz, 1886",
+   "warum": "Außerhalb des Zeitraums: Eine medizinische Dissertation über Bleivergiftung im Oberharz setzt Lentins ‚Hüttenkatze‘ fort, liegt aber nach 1866, der Grenze dieses Apparats.",
+   "quelle": "M. Jacob, Ueber Bleikrankheiten im Oberharz und deren Beziehungen zu Gicht und Schrumpfniere (Berlin 1886) (Bayerische Staatsbibliothek, bsb11590168)."
+  }
+ ]
 }

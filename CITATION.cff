@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "Das Wasser trägt den Berg. Silberbergbau und Wasserwirtschaft im Oberharz 1520–1866. Ein Quellenapparat"
+message: "Wenn Sie diesen Apparat benutzen, zitieren Sie ihn bitte wie unten angegeben, und zitieren Sie für jede übernommene Stelle auch die gedruckte Quelle."
+type: software
+authors:
+  - family-names: Fassbender
+    given-names: Pantaleon
+    orcid: "https://orcid.org/0000-0002-6683-3617"
+repository-code: "https://github.com/pantaleonfassbender-coder/Das-Wasser-traegt-den-Berg"
+url: "https://das-wasser-traegt-den-berg.netlify.app/"
+abstract: >-
+  Ein digitaler Quellenapparat zum Oberharzer Silberbergbau und seiner
+  Wasserwirtschaft von den Bergfreiheiten 1521 bis 1866: zehn Module mit
+  136 Einheiten, frühneuhochdeutsche und neuhochdeutsche Originale neben
+  einer Übertragung, jeder Auszug am Seitenbild gelesen (Calvör 1763/1765,
+  Löhneyß 1617, Leibniz nach Gerland 1906, Reden und Dahme 1777, Lasius
+  1789, Lentin 1774–1808, Heine 1830, Kerl 1852, Dumreicher 1868). Mit
+  Zeitleiste, 20 Vergleichen, 37 gemeinfreien Bildtafeln, einer
+  Visualisierung je Modul und einer Liste der geprüften und nicht
+  aufgenommenen Quellen. Begleitspiel: Die Last der Grundwasser.
+keywords:
+  - Oberharz
+  - Harz
+  - Bergbau
+  - Silberbergbau
+  - Oberharzer Wasserregal
+  - Wasserwirtschaft
+  - Clausthal
+  - Tiefer Georg-Stollen
+  - Gottfried Wilhelm Leibniz
+  - Heinrich Heine
+  - digital humanities
+license: MIT
+version: 1.0.0
+date-released: 2026-10-03
