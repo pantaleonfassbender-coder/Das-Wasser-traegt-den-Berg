@@ -25,7 +25,7 @@ Zehn Module mit 136 Einheiten:
 
 Dazu eine Zeitleiste (25 Stationen), 20 Vergleiche, 37 gemeinfreie Bildtafeln, eine Visualisierung je Modul und eine Liste der geprüften und nicht aufgenommenen Quellen. Die Anmerkungen benennen Widersprüche der Quellen, Unfälle und Gewalt, soweit die Quellen sie nennen, und Klischees, wo sie vorkommen; was nur aus der neueren Literatur stammt, ist gekennzeichnet.
 
-Das Begleitspiel *Die Last der Grundwasser* (https://die-last-der-grundwasser.netlify.app/) nimmt seinen Titel von Reden.
+Das Begleitspiel *Die Last der Grundwasser* (Prototyp 0, https://die-last-der-grundwasser.netlify.app/) nimmt seinen Titel von Reden; jede seiner Karten verweist auf eine Einheit dieses Apparats.
 
 ## Zitieren
 
