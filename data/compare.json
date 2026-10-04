@@ -465,6 +465,60 @@
      ]
     }
    ]
+  },
+  {
+   "id": "vierzehn",
+   "titel": "Wie lange ohne Regen?",
+   "frage": "Calvör 1763, Dumreicher 1868.",
+   "note": "1763 reichen die Clausthaler Teiche nach Calvör ‚fast ein ganzes Quartal‘, im Frost gar nicht. 1868 hält das System nach Dumreicher 14 bis 16 Wochen aus; nur 1857 war selbst der letzte Teich leer. Hundert Jahre Teich- und Grabenbau haben ein paar Wochen gewonnen. Gebaut haben sie nach Kerl junge Männer zwischen Pochwerk und Grube.",
+   "voices": [
+    {
+     "text": "kuenste",
+     "sec": "mangel",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "system",
+     "sec": "anlage",
+     "n": [
+      1,
+      3
+     ]
+    },
+    {
+     "text": "system",
+     "sec": "fahrkunst",
+     "n": [
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "leiter",
+   "titel": "Die Leiter",
+   "frage": "Heine 1824, Kerl 1852.",
+   "note": "1824 klettert Heine Leiter um Leiter in die Carolina, ihm wird ‚das Athmen schwer‘, und er begegnet Bergleuten, die nach der Schicht ‚etwas blassen‘ heraufsteigen. 1852 sagt Kerl, was das für sie hieß: Nur junge, kräftige Männer konnten in die Tiefbaue, und ‚schon nach einigen Jahren muste man sie, mit Brustbeschwerden behaftet, wieder umwechseln‘. Die Fahrkunst von 1833 hob sie mit Wasserkraft heraus.",
+   "voices": [
+    {
+     "text": "heine",
+     "sec": "grube",
+     "n": [
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "text": "system",
+     "sec": "fahrkunst",
+     "n": [
+      1
+     ]
+    }
+   ]
   }
  ]
 }

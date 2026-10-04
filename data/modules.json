@@ -71,16 +71,16 @@
    "kurz": "Heine fährt ein, 1824",
    "zk": "Ankunft, Fahrt, Leute",
    "warum": "Im Herbst 1824 kommt ein Göttinger Student nach Clausthal, besichtigt die Münze und fährt in die Gruben Carolina und Dorothea ein. Heinrich Heine beschreibt die Leitern, das Brausen und den Dunst, die Bergleute nach der Schicht und ihren Gruß ‚Glückauf‘, und in einem Nebensatz einen Menschen, der vierzehn Tage zuvor in den Schacht gestürzt war. Was der Besucher sah und was er nicht sah, nach der Ausgabe von 1830, am Seitenbild gelesen, mit vier Tafeln und Heines Abstieg als Grafik."
-  }
- ],
- "planned": [
+  },
   {
    "id": "system",
+   "datei": "system",
    "side": "wasser",
    "kurz": "Das System um 1866",
-   "warum": "Wie das Wassersystem des Oberharzes am Ende dieses Apparats aussah: rund 190 Wasserräder, Teiche, Gräben, Wasserläufe, beschrieben zwei Jahre nach dem Übergang an Preußen. Dazu die Fahrkunst (1833) und das Drahtseil (1834), die in Clausthal erfunden wurden, soweit gemeinfreie Quellen sie beschreiben.",
-   "quelle": "A. Dumreicher, Gesammtüberblick über die Wasserwirthschaft des nordwestlichen Oberharzes (Clausthal 1868); weitere Quellen zu prüfen."
+   "zk": "Anlage, Tiefe, Räder, Fahrkunst",
+   "warum": "Wie das Wassersystem des Oberharzes am Ende dieses Apparats aussah, beschrieben 1868 von einem Clausthaler Maschinenmeister: 67 Teiche, 27½ Meilen Gräben, 193 Wasserräder aus Fichtenholz, ein unterirdischer Kanal mit Erzkähnen, der Ernst-August-Stollen von 1864 als letzter seiner Art. Dazu Bruno Kerl 1852 über die Fahrkunst, das Drahtseil und den Lebenslauf eines Bergmanns vom Pochknaben an. Am Seitenbild gelesen, mit fünf Tafeln und den Stollen der Grube Caroline als Grafik."
   }
  ],
+ "planned": [],
  "missing": []
 }

@@ -61,6 +61,12 @@ PLATES = {
     "heine_reisebilder": ("ia", "https://archive.org/download/10110694bsb/page/n6_w1400.jpg", None),
     "heine_s119": ("ia", "https://archive.org/download/10110694bsb/page/n130_w1400.jpg", None),
     "heine_s122": ("ia", "https://archive.org/download/10110694bsb/page/n133_w1400.jpg", None),
+    # Modul 10 (Dumreicher 1868 bsb10060258, Bild = S.+6; Kerl 1852 bsb10293058, Bild = S.+12)
+    "dumreicher_titel": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10060258_00003/full/1400,/0/default.jpg", None),
+    "dumreicher_s2": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10060258_00008/full/1400,/0/default.jpg", None),
+    "dumreicher_s39": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10060258_00045/full/1400,/0/default.jpg", None),
+    "kerl_titel": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10293058_00005/full/1400,/0/default.jpg", None),
+    "kerl_s18": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10293058_00030/full/1400,/0/default.jpg", None),
 }
 
 

@@ -192,10 +192,30 @@
    "plate": "heine_s119"
   },
   {
+   "d": "1833",
+   "side": "bergleute",
+   "titel": "Die Fahrkunst",
+   "text": "Bergmeister Dörell in Zellerfeld erfindet die Fahrkunst, die die Bergleute statt der Leitern aus dem Schacht hebt; ein Jahr später ersetzt das Drahtseil von Oberbergrat Albert die Ketten.",
+   "cite": "#/text/system/fahrkunst/1",
+   "citeLabel": "Fahrkunst [1]",
+   "plate": "kerl_s18"
+  },
+  {
+   "d": "22. Juni 1864",
+   "side": "wasser",
+   "titel": "Der Ernst-August-Stollen",
+   "text": "Nach 13 Jahren ist der tiefste Stollen fertig, 204 Lachter unter der Grube Caroline, Mundloch bei Gittelde. Einen tieferen werde es ‚nimmermehr‘ geben.",
+   "cite": "#/text/system/tiefe/4",
+   "citeLabel": "Tiefe [4]"
+  },
+  {
    "d": "1866",
    "side": "bergamt",
    "titel": "Preußen",
-   "text": "Mit dem Königreich Hannover kommt der Oberharz an Preußen. Hier endet dieser Apparat. (Nach der neueren Literatur.)"
+   "text": "Mit dem Königreich Hannover kommt der Oberharz an Preußen. Zwei Jahre später beschreibt Dumreicher das Wassersystem: 67 Teiche, 193 Wasserräder. Hier endet dieser Apparat.",
+   "cite": "#/text/system/anlage/1",
+   "citeLabel": "Anlage [1]",
+   "plate": "dumreicher_titel"
   }
  ]
 }
