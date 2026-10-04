@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-labelledby="he-t he-d" font-family="var(--serif)">
+<title id="he-t">Heines Fahrt, 1824</title>
+<desc id="he-d">Ein Schnitt, nicht maßstäblich. Links die Grube Carolina: von zwei schwärzlichen Gebäuden über Tage führt eine enge Öffnung hinab, Leitern von fünfzehn bis zwanzig Sprossen wechseln mit kleinen Brettern. Daneben läuft das Tonnenseil; am Seitenbrett ist vierzehn Tage zuvor ein Mensch abgestürzt. Unten Brausen, Wasser, Dunst, ein Bergmann klopft Erz aus der Wand; Heine wird das Atmen schwer, er steigt einige Dutzend Leitern wieder hinauf. Ein langer Gang führt nach rechts zur Grube Dorothea. Dort kommen Bergleute mit Grubenlichtern nach der Schicht herauf und grüßen „Glückauf!“. In einem Stollen stehen der Tisch und der Erzstuhl des Herzogs von Cambridge. Oben tritt Heine ins Sonnenlicht.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Heines Fahrt, 1824</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Nach Heines Beschreibung (gedruckt 1830), nicht maßstäblich. Er kam ‚bis wohin ich kam‘, nicht in die unterste Tiefe.</text>
+<defs><marker id="he-a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--besucher)"/></marker></defs>
+<rect x="0" y="150" width="900" height="450" fill="var(--ink2)" opacity="0.10"/>
+<line x1="0" y1="150" x2="900" y2="150" stroke="var(--ink2)" stroke-width="1.5"/>
+<rect x="253" y="116" width="44" height="34" fill="var(--ink)" opacity="0.65"/>
+<path d="M 249 116 L 275 98 L 301 116 Z" fill="var(--ink)" opacity="0.65"/>
+<rect x="308" y="116" width="44" height="34" fill="var(--ink)" opacity="0.65"/>
+<path d="M 304 116 L 330 98 L 356 116 Z" fill="var(--ink)" opacity="0.65"/>
+<a href="#/text/heine/grube/1"><text x="250" y="120" text-anchor="end" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">zwei schwärzliche Gebäude: umkleiden</text></a>
+<rect x="304" y="150" width="70" height="370" fill="var(--panel)" stroke="var(--ink2)" stroke-width="1"/>
+<line x1="314" y1="150" x2="334" y2="183" stroke="var(--ink)" stroke-width="1.6"/>
+<line x1="308" y1="183" x2="340" y2="183" stroke="var(--ink)" stroke-width="2.4"/>
+<line x1="334" y1="183" x2="314" y2="217" stroke="var(--ink)" stroke-width="1.6"/>
+<line x1="308" y1="217" x2="340" y2="217" stroke="var(--ink)" stroke-width="2.4"/>
+<line x1="314" y1="217" x2="334" y2="250" stroke="var(--ink)" stroke-width="1.6"/>
+<line x1="308" y1="250" x2="340" y2="250" stroke="var(--ink)" stroke-width="2.4"/>
+<line x1="334" y1="250" x2="314" y2="283" stroke="var(--ink)" stroke-width="1.6"/>
+<line x1="308" y1="283" x2="340" y2="283" stroke="var(--ink)" stroke-width="2.4"/>
+<line x1="314" y1="283" x2="334" y2="317" stroke="var(--ink)" stroke-width="1.6"/>
+<line x1="308" y1="317" x2="340" y2="317" stroke="var(--ink)" stroke-width="2.4"/>
+<line x1="334" y1="317" x2="314" y2="350" stroke="var(--ink)" stroke-width="1.6"/>
+<line x1="308" y1="350" x2="340" y2="350" stroke="var(--ink)" stroke-width="2.4"/>
+<line x1="314" y1="350" x2="334" y2="383" stroke="var(--ink)" stroke-width="1.6"/>
+<line x1="308" y1="383" x2="340" y2="383" stroke="var(--ink)" stroke-width="2.4"/>
+<line x1="334" y1="383" x2="314" y2="417" stroke="var(--ink)" stroke-width="1.6"/>
+<line x1="308" y1="417" x2="340" y2="417" stroke="var(--ink)" stroke-width="2.4"/>
+<line x1="314" y1="417" x2="334" y2="450" stroke="var(--ink)" stroke-width="1.6"/>
+<line x1="308" y1="450" x2="340" y2="450" stroke="var(--ink)" stroke-width="2.4"/>
+<line x1="360" y1="150" x2="360" y2="520" stroke="var(--red)" stroke-width="2" stroke-dasharray="6 3"/>
+<line x1="346" y1="270" x2="370" y2="270" stroke="var(--red)" stroke-width="3"/>
+<a href="#/text/heine/grube/2"><text x="290" y="170" text-anchor="end" font-size="14" font-weight="bold" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Grube Carolina</text></a>
+<a href="#/text/heine/grube/2"><text x="290" y="190" text-anchor="end" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚die schmutzigste und unerfreulichste‘</text></a>
+<a href="#/text/heine/grube/2"><text x="290" y="208" text-anchor="end" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Leitern von 15–20 Sprossen,</text></a>
+<a href="#/text/heine/grube/2"><text x="290" y="224" text-anchor="end" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">dazwischen kleine Bretter</text></a>
+<a href="#/text/heine/grube/2"><text x="290" y="250" text-anchor="end" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚kothig naß‘</text></a>
+<a href="#/text/heine/grube/2"><text x="382" y="252" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">das Tonnenseil</text></a>
+<a href="#/text/heine/grube/2"><text x="382" y="270" text-anchor="start" font-size="12" font-weight="bold" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">das Seitenbrett: vor vierzehn Tagen</text></a>
+<a href="#/text/heine/grube/2"><text x="382" y="286" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚ein unvorsichtiger Mensch hinunter</text></a>
+<a href="#/text/heine/grube/2"><text x="382" y="302" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--red)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">gestürzt und leider den Hals gebrochen‘</text></a>
+<a href="#/text/heine/grube/2"><text x="382" y="322" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--ink2)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">der Steiger: ‚es sey gar nicht gefährlich‘</text></a>
+<rect x="374" y="484" width="90" height="22" fill="var(--panel)" stroke="var(--ink2)" stroke-width="1"/>
+<a href="#/text/heine/grube/3"><text x="474" y="494" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--wald)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Stollen: ‚wo man das Erz wachsen sieht‘</text></a>
+<a href="#/text/heine/grube/3"><text x="474" y="510" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">der Bergmann klopft mit dem Hammer</text></a>
+<a href="#/text/heine/grube/3"><text x="290" y="430" text-anchor="end" font-size="11.5" font-weight="normal" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Brausen, Wasser, ‚qualmig aufsteigende</text></a>
+<a href="#/text/heine/grube/3"><text x="290" y="446" text-anchor="end" font-size="11.5" font-weight="normal" fill="var(--wasser)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Erddünste‘: ‚das Athmen wurde mir schwer‘</text></a>
+<path d="M 336 430 L 336 388" fill="none" stroke="var(--besucher)" stroke-width="2.4" marker-end="url(#he-a)"/>
+<a href="#/text/heine/grube/3"><text x="290" y="350" text-anchor="end" font-size="11.5" font-weight="normal" fill="var(--besucher)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚Nach Luft schnappend‘</text></a>
+<a href="#/text/heine/grube/3"><text x="290" y="366" text-anchor="end" font-size="11.5" font-weight="normal" fill="var(--besucher)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">einige Dutzend Leitern hinauf</text></a>
+<rect x="374" y="374" width="320" height="14" fill="var(--panel)" stroke="var(--ink2)" stroke-width="1"/>
+<line x1="400" y1="381" x2="680" y2="381" stroke="var(--besucher)" stroke-width="2.4" marker-end="url(#he-a)"/>
+<a href="#/text/heine/grube/4"><text x="545" y="366" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--besucher)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">ein schmaler, sehr langer Gang</text></a>
+<rect x="690" y="150" width="60" height="300" fill="var(--panel)" stroke="var(--ink2)" stroke-width="1"/>
+<line x1="710" y1="150" x2="730" y2="190" stroke="var(--ink)" stroke-width="1.6"/>
+<line x1="704" y1="190" x2="736" y2="190" stroke="var(--ink)" stroke-width="2.4"/>
+<line x1="730" y1="190" x2="710" y2="230" stroke="var(--ink)" stroke-width="1.6"/>
+<line x1="704" y1="230" x2="736" y2="230" stroke="var(--ink)" stroke-width="2.4"/>
+<line x1="710" y1="230" x2="730" y2="270" stroke="var(--ink)" stroke-width="1.6"/>
+<line x1="704" y1="270" x2="736" y2="270" stroke="var(--ink)" stroke-width="2.4"/>
+<line x1="730" y1="270" x2="710" y2="310" stroke="var(--ink)" stroke-width="1.6"/>
+<line x1="704" y1="310" x2="736" y2="310" stroke="var(--ink)" stroke-width="2.4"/>
+<line x1="710" y1="310" x2="730" y2="350" stroke="var(--ink)" stroke-width="1.6"/>
+<line x1="704" y1="350" x2="736" y2="350" stroke="var(--ink)" stroke-width="2.4"/>
+<line x1="730" y1="350" x2="710" y2="390" stroke="var(--ink)" stroke-width="1.6"/>
+<line x1="704" y1="390" x2="736" y2="390" stroke="var(--ink)" stroke-width="2.4"/>
+<line x1="710" y1="390" x2="730" y2="430" stroke="var(--ink)" stroke-width="1.6"/>
+<line x1="704" y1="430" x2="736" y2="430" stroke="var(--ink)" stroke-width="2.4"/>
+<a href="#/text/heine/grube/4"><text x="760" y="170" text-anchor="start" font-size="14" font-weight="bold" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Grube Dorothea</text></a>
+<a href="#/text/heine/grube/4"><text x="760" y="190" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚luftiger und frischer‘,</text></a>
+<a href="#/text/heine/grube/4"><text x="760" y="206" text-anchor="start" font-size="11.5" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Leitern ‚länger und steiler‘</text></a>
+<circle cx="712" cy="400" r="5" fill="var(--gold)"/>
+<circle cx="728" cy="418" r="5" fill="var(--gold)"/>
+<circle cx="712" cy="436" r="5" fill="var(--gold)"/>
+<a href="#/text/heine/grube/4"><text x="680" y="412" text-anchor="end" font-size="12" font-weight="bold" fill="var(--bergleute)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Bergleute nach der Schicht</text></a>
+<a href="#/text/heine/grube/4"><text x="680" y="430" text-anchor="end" font-size="11.5" font-weight="normal" fill="var(--bergleute)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">mit Grubenlichtern: ‚Glückauf!‘</text></a>
+<a href="#/text/heine/grube/4"><text x="680" y="448" text-anchor="end" font-size="11.5" font-weight="normal" fill="var(--bergleute)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚etwas blassen‘ Gesichter</text></a>
+<path d="M 720 370 L 720 156" fill="none" stroke="var(--besucher)" stroke-width="2.4" marker-end="url(#he-a)"/>
+<rect x="550" y="212" width="140" height="16" fill="var(--panel)" stroke="var(--ink2)" stroke-width="1"/>
+<rect x="570" y="216" width="60" height="5" fill="var(--bergamt)"/><rect x="640" y="210" width="10" height="14" fill="var(--bergamt)"/>
+<a href="#/text/heine/grube/5"><text x="620" y="202" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--bergamt)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Tisch und Erzstuhl des Herzogs von Cambridge</text></a>
+<a href="#/text/heine/grube/5"><text x="620" y="246" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--bergamt)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚sich gern würden todt schlagen lassen‘</text></a>
+<circle cx="720" cy="110" r="16" fill="var(--gold)" opacity="0.8"/>
+<a href="#/text/heine/grube/5"><text x="696" y="114" text-anchor="end" font-size="12.5" font-weight="bold" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">‚das Sonnenlicht strahlt‘ — Glück auf!</text></a>
+<text x="16" y="626" font-size="11.5" fill="var(--ink2)">Lage, Tiefe und Zahl der Leitern sind schematisch; Heine nennt keine Teufen. Rot: der Unfall, den der Steiger als Warnung erzählt.</text>
+</svg>

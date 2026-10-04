@@ -56,6 +56,11 @@ PLATES = {
     "lentin1789_titel": ("ia", "https://archive.org/download/11107337bsb/page/n4_w1400.jpg", None),
     "lentin1789_s13": ("ia", "https://archive.org/download/11107337bsb/page/n22_w1400.jpg", (0, 0, 1000, 1000)),
     "lentin1789_s95": ("ia", "https://archive.org/download/11107337bsb/page/n104_w1400.jpg", (40, 540, 1000, 900)),
+    # Modul 9 (Heine, Reisebilder I, Hamburg 1830, IA 10110694bsb, Blatt = S.+11)
+    "heine_oppenheim": ("commons", "File:Heinrich Heine-Oppenheim.jpg", None),
+    "heine_reisebilder": ("ia", "https://archive.org/download/10110694bsb/page/n6_w1400.jpg", None),
+    "heine_s119": ("ia", "https://archive.org/download/10110694bsb/page/n130_w1400.jpg", None),
+    "heine_s122": ("ia", "https://archive.org/download/10110694bsb/page/n133_w1400.jpg", None),
 }
 
 

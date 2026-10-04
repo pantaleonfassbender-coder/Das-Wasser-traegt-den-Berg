@@ -411,6 +411,60 @@
      ]
     }
    ]
+  },
+  {
+   "id": "gefaehrlich",
+   "titel": "‚Gar nicht gefährlich‘",
+   "frage": "Der Steiger 1824, der Arzt, der Prediger.",
+   "note": "Der Steiger beteuert dem Gast, die Fahrt sei ‚gar nicht gefährlich‘, und nennt im selben Atemzug einen Menschen, der vierzehn Tage zuvor in den Schacht gestürzt war. Für den Bergarzt sind ‚Fallen, Stoßen, Quetschen‘ am Harz häufiger als anderswo; der Prediger von 1777 betet um Bewahrung ‚ohne Unglücksfälle‘. Drei Stimmen, drei Arten, über dieselbe Gefahr zu sprechen: als Beruhigung, als Befund, als Bitte.",
+   "voices": [
+    {
+     "text": "heine",
+     "sec": "grube",
+     "n": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "arzt",
+     "sec": "arbeit",
+     "n": [
+      4,
+      5
+     ]
+    },
+    {
+     "text": "stollen",
+     "sec": "predigt",
+     "n": [
+      5
+     ]
+    }
+   ]
+  },
+  {
+   "id": "treue",
+   "titel": "Treue zum Haus Hannover",
+   "frage": "Reden 1777, ein Steiger 1824, Heine.",
+   "note": "Reden lobt 1777 den König, der den Stollen ‚mit ohnunterbrochener selbst eigener Allerhöchsten Aufmerksamkeit‘ betrieben habe, und gibt dem Werk seinen Namen. 1824 sagt ein Steiger, viele Bergleute würden sich ‚gern todt schlagen lassen‘ für den Herzog und das Haus Hannover. Heine nennt das rührend und wendet es dann gegen die Fürsten: Der treue Hund sei nicht toll geworden. Was die Bergleute selbst über ihre Herren dachten, steht in keiner dieser Quellen.",
+   "voices": [
+    {
+     "text": "stollen",
+     "sec": "rede",
+     "n": [
+      3,
+      5
+     ]
+    },
+    {
+     "text": "heine",
+     "sec": "grube",
+     "n": [
+      5
+     ]
+    }
+   ]
   }
  ]
 }

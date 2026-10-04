@@ -183,10 +183,13 @@
    "citeLabel": "Vortrieb [3]"
   },
   {
-   "d": "1824",
+   "d": "Herbst 1824",
    "side": "besucher",
    "titel": "Heine fährt ein",
-   "text": "Heinrich Heine besucht die Gruben ‚Dorothea‘ und ‚Carolina‘ bei Clausthal; seine Harzreise erscheint 1826. (Modul geplant.)"
+   "text": "Heinrich Heine fährt in die Gruben Carolina und Dorothea ein. Der Steiger warnt ihn vor dem Seitenbrett, wo vierzehn Tage zuvor ein Mensch in den Schacht gestürzt war; die Harzreise erscheint 1826.",
+   "cite": "#/text/heine/grube/2",
+   "citeLabel": "Fahrt [2]",
+   "plate": "heine_s119"
   },
   {
    "d": "1866",

@@ -63,16 +63,17 @@
    "kurz": "Der Bergarzt",
    "zk": "Stadt, Arbeit",
    "warum": "Lebrecht Friedrich Benjamin Lentin war zehn Jahre Bergarzt und Stadtphysikus in Clausthal. Er beschreibt die Stadt wie ein Klima: Schnee bis Mai, Gemüse erst im Juni, siebenhundert Frauen mehr als Männer, Frauen, die Obst auf dem Rücken ins Gebirge tragen und unterwegs gebären. Und er beschreibt, was die Arbeit dem Körper tat: die ‚Hüttenkatze‘, die Bleivergiftung, die die Hände lähmt, ‚Fallen, Stoßen, Quetschen‘ unter Tage, ein junger Bergmann, auf den ‚ein großes Stück Berg‘ stürzte. Aus vier Büchern von 1774 bis 1808, am Seitenbild gelesen, mit vier Tafeln und dem Jahr des Arztes als Grafik."
+  },
+  {
+   "id": "heine",
+   "datei": "heine",
+   "side": "besucher",
+   "kurz": "Heine fährt ein, 1824",
+   "zk": "Ankunft, Fahrt, Leute",
+   "warum": "Im Herbst 1824 kommt ein Göttinger Student nach Clausthal, besichtigt die Münze und fährt in die Gruben Carolina und Dorothea ein. Heinrich Heine beschreibt die Leitern, das Brausen und den Dunst, die Bergleute nach der Schicht und ihren Gruß ‚Glückauf‘, und in einem Nebensatz einen Menschen, der vierzehn Tage zuvor in den Schacht gestürzt war. Was der Besucher sah und was er nicht sah, nach der Ausgabe von 1830, am Seitenbild gelesen, mit vier Tafeln und Heines Abstieg als Grafik."
   }
  ],
  "planned": [
-  {
-   "id": "heine",
-   "side": "besucher",
-   "kurz": "Heine fährt ein, 1824",
-   "warum": "Ein Student aus Göttingen fährt in die Gruben ‚Dorothea‘ und ‚Carolina‘ ein und beschreibt die Fahrten, die Lampen, die Bergleute und ihren Gruß ‚Glück auf‘. Was der Besucher sah und was er nicht sah.",
-   "quelle": "H. Heine, Die Harzreise (1826), in einer gemeinfreien Ausgabe."
-  },
   {
    "id": "system",
    "side": "wasser",
